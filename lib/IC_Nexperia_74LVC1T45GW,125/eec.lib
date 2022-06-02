@@ -1,0 +1,50 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Nexperia 74LVC1T45GW,125
+#
+DEF 74LVC1T45GW,125 U 0 40 Y Y 1 L N
+F0 "U" 0 200 50 H V L CNN 
+F1 "74LVC1T45GW,125" 0 300 50 H V L CNN 
+F2 "Nexperia-SOT363-11_2018-0-*" 0 400 50 H I L CNN 
+F3 "https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH1T45.pdf" 0 500 50 H I L CNN 
+F4 "+125°C" 0 600 50 H I L CNN "ambient temperature range high"
+F5 "-40°C" 0 700 50 H I L CNN "ambient temperature range low"
+F6 "No" 0 800 50 H I L CNN "automotive"
+F7 "IC" 0 900 50 H I L CNN "category"
+F8 "Integrated Circuits (ICs)" 0 1000 50 H I L CNN "device class L1"
+F9 "Logic ICs" 0 1100 50 H I L CNN "device class L2"
+F10 "Drivers and Transceivers" 0 1200 50 H I L CNN "device class L3"
+F11 "IC TRNSLTR BIDIRECTIONAL 6TSSOP" 0 1300 50 H I L CNN "digikey description"
+F12 "1727-4560-1-ND" 0 1400 50 H I L CNN "digikey part number"
+F13 "https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf" 0 1500 50 H I L CNN "footprint url"
+F14 "1.1mm" 0 1600 50 H I L CNN "height"
+F15 "Yes" 0 1700 50 H I L CNN "lead free"
+F16 "2d660f43f9fba5f8" 0 1800 50 H I L CNN "library id"
+F17 "Non-Inverting" 0 1900 50 H I L CNN "logic function"
+F18 "Non-Inverting" 0 2000 50 H I L CNN "logic function desc"
+F19 "Nexperia" 0 2100 50 H I L CNN "manufacturer"
+F20 "5.5V" 0 2200 50 H I L CNN "max supply voltage"
+F21 "1.2V" 0 2300 50 H I L CNN "min supply voltage"
+F22 "771-74LVC1T45GW125" 0 2400 50 H I L CNN "mouser part number"
+F23 "2-75uA" 0 2500 50 H I L CNN "nominal supply current"
+F24 "1" 0 2600 50 H I L CNN "number of circuits"
+F25 "1" 0 2700 50 H I L CNN "number of inputs"
+F26 "1" 0 2800 50 H I L CNN "number of outputs"
+F27 "SOT363" 0 2900 50 H I L CNN "package"
+F28 "2.5ns" 0 3000 50 H I L CNN "propagation delay"
+F29 "Yes" 0 3100 50 H I L CNN "rohs"
+F30 "+125°C" 0 3200 50 H I L CNN "temperature range high"
+F31 "-40°C" 0 3300 50 H I L CNN "temperature range low"
+DRAW
+X VCC(A) 1 100 0 100 R 40 40 1 1 W 
+X VCC(B) 6 1500 0 100 L 40 40 1 1 W 
+X A 3 100 -400 100 R 40 40 1 1 B 
+X B 4 1500 -200 100 L 40 40 1 1 B 
+X DIR 5 100 -200 100 R 40 40 1 1 I 
+X GND 2 1500 -400 100 L 40 40 1 1 W 
+S 200 100 1400 -500 1 1 0 f
+ENDDRAW
+ENDDEF
+#
+# End Library

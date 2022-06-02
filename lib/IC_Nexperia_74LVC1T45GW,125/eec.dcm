@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1T45GW,125
+D 74LVC1T45GW,125
+F https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH1T45.pdf
+$ENDCMP
+# end doc library

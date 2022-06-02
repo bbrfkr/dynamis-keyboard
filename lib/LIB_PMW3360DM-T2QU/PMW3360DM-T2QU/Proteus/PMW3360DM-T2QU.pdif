@@ -1,0 +1,176 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PMW3360DM-T2QU"
+   (description "Optical gaming navigation sensor")
+   (family "ANA")
+   (package "PMW3360")
+   (attribute "Datasheet Link" "http://www.pixart.com.tw/upload/PMS0058-PMW3360DM-T2QU-NNDS-R1.30-06042016_20160902201411.pdf")
+   (attribute "Manufacturer_Name" "PixArt Imaging Inc.")
+   (attribute "Manufacturer_Part_Number" "PMW3360DM-T2QU")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "PMW3360DM-T2QU")
+    (pin "NC_1" 1 PS)
+    (pin "NC_2" 2 PS)
+    (pin "VDDPIX" 3 PS)
+    (pin "VDD" 4 PS)
+    (pin "VDDIO" 5 PS)
+    (pin "NC_3" 6 PS)
+    (pin "NRESET" 7 PS)
+    (pin "GND" 8 PS)
+    (pin "MOTION" 9 PS)
+    (pin "SCLK" 10 PS)
+    (pin "MOSI" 11 PS)
+    (pin "MISO" 12 PS)
+    (pin "NCS" 13 PS)
+    (pin "NC_4" 14 PS)
+    (pin "LED_P" 15 PS)
+    (pin "NC_5" 16 PS)
+   )
+  )
+  (symbol "PMW3360DM-T2QU"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -800) (pt 200 -800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 1300 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PMW3360"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -8.1 4.55)
+      (pt 8.1 4.55)
+      (pt 8.1 -4.55)
+      (pt -8.1 -4.55)
+      (pt -8.1 4.55))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -8.1 4.55)
+      (pt -8.1 -4.55)
+      (pt 8.1 -4.55)
+      (pt 8.1 4.55)
+      (pt -8.1 4.55))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt 6.56673 6.313) (pt 6.70127 6.313)
+     )
+    )
+   )
+   (leg 1 (pt 6.675 5.35) (padstack 0))
+   (leg 2 (pt 4.895 5.35) (padstack 0))
+   (leg 3 (pt 3.115 5.35) (padstack 0))
+   (leg 4 (pt 1.335 5.35) (padstack 0))
+   (leg 5 (pt -0.445 5.35) (padstack 0))
+   (leg 6 (pt -2.225 5.35) (padstack 0))
+   (leg 7 (pt -4.005 5.35) (padstack 0))
+   (leg 8 (pt -5.785 5.35) (padstack 0))
+   (leg 9 (pt -6.675 -5.35) (padstack 0))
+   (leg 10 (pt -4.895 -5.35) (padstack 0))
+   (leg 11 (pt -3.115 -5.35) (padstack 0))
+   (leg 12 (pt -1.335 -5.35) (padstack 0))
+   (leg 13 (pt 0.445 -5.35) (padstack 0))
+   (leg 14 (pt 2.225 -5.35) (padstack 0))
+   (leg 15 (pt 4.005 -5.35) (padstack 0))
+   (leg 16 (pt 5.785 -5.35) (padstack 0))
+   (padstack 0
+    (hole 0.7)
+    (plated true)
+    (pad (layer TCOP) (round 1.3))
+    (pad (layer INNER) (round 1.3))
+    (pad (layer BCOP) (round 1.3))
+   )
+  )
+ )
+)

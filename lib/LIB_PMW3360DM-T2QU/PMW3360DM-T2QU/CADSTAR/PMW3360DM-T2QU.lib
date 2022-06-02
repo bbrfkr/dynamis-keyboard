@@ -1,0 +1,17 @@
+.PMW3360DM-T2QU :1 ;Optical gaming navigation sensor
+PMW3360
+*STM U
+*NGS
+*PLB 1="NC_1" 2="NC_2" 3="VDDPIX" 4="VDD" 5="VDDIO" 6="NC_3" 7="NRESET" 8="GND" 9="MOTION" 10="SCLK" 11="MOSI" 12="MISO" 13="NCS" 14="NC_4" 15="LED_P" 16="NC_5"
+*MXP 16
+*DFN PMW3360DM-T2QU
+~!Manufacturer_Name (PixArt Imaging Inc.)
+~!Manufacturer_Part_Number (PMW3360DM-T2QU)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.pixart.com.tw/upload/PMS0058-PMW3360DM-T2QU-NNDS-R1.30-06042016_20160902201411.pdf)
+~!Height (-)
+PMW3360DM-T2QU
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

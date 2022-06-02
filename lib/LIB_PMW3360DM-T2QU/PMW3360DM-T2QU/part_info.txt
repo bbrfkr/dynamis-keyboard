@@ -1,0 +1,9 @@
+Manufacturer=PixArt Imaging Inc.
+PartNumber=PMW3360DM-T2QU
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=16
+Version=1.1
+Released=2017-08-11 09:12:50
+Downloaded=2021-06-22 18:29:17
+3D=N

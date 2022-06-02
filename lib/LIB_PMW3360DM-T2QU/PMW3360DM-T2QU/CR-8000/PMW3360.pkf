@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "PMW3360"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "PMW3360")
+        (spec "default")
+    )
+)

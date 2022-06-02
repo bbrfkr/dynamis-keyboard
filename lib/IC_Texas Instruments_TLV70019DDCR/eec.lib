@@ -1,0 +1,49 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Texas Instruments TLV70019DDCR
+#
+DEF TLV70019DDCR U 0 40 Y Y 1 L N
+F0 "U" 0 200 50 H V L CNN 
+F1 "TLV70019DDCR" 0 300 50 H V L CNN 
+F2 "Texas_Instruments-TLV70019DDCR-*" 0 400 50 H I L CNN 
+F3 "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TLV70019&fileType=pdf" 0 500 50 H I L CNN 
+F4 "2" 0 600 50 H I L CNN "Accuracy"
+F5 "MO-193" 0 700 50 H I L CNN "Code  JEDEC"
+F6 "Manufacturer URL" 0 800 50 H I L CNN "Component Link 1 Description"
+F7 "http://www.ti.com/" 0 900 50 H I L CNN "Component Link 1 URL"
+F8 "Package Specification" 0 1000 50 H I L CNN "Component Link 3 Description"
+F9 "http://www.ti.com/litv/pdf/mpds123d" 0 1100 50 H I L CNN "Component Link 3 URL"
+F10 "SLVSA00D" 0 1200 50 H I L CNN "Datasheet Version"
+F11 "1.9" 0 1300 50 H I L CNN "Fixed Output OptionsV"
+F12 "0.2" 0 1400 50 H I L CNN "Iout Max A"
+F13 "0.03" 0 1500 50 H I L CNN "Iq Typm A"
+F14 "Surface Mount" 0 1600 50 H I L CNN "Mounting Technology"
+F15 "5-Pin Plastic Small Outline, Body 2.9 x 1.6 mm, 0.95 mm Pitch" 0 1700 50 H I L CNN "Package Description"
+F16 "4204403-2/E" 0 1800 50 H I L CNN "Package Version"
+F17 "Single Channel LDO" 0 1900 50 H I L CNN "Sub Family"
+F18 "175" 0 2000 50 H I L CNN "Vdo Typm V"
+F19 "5.5" 0 2100 50 H I L CNN "Vin Max V"
+F20 "2" 0 2200 50 H I L CNN "Vin Min V"
+F21 "1.9" 0 2300 50 H I L CNN "Vout AdjMaxV"
+F22 "1.9" 0 2400 50 H I L CNN "Vout AdjMinV"
+F23 "IC" 0 2500 50 H I L CNN "category"
+F24 "3258691" 0 2600 50 H I L CNN "ciiva ids"
+F25 "cd49f8ad7f5d1360" 0 2700 50 H I L CNN "library id"
+F26 "Texas Instruments" 0 2800 50 H I L CNN "manufacturer"
+F27 "DDC0005A" 0 2900 50 H I L CNN "package"
+F28 "1464593191" 0 3000 50 H I L CNN "release date"
+F29 "Yes" 0 3100 50 H I L CNN "rohs"
+F30 "6830DAB3-6FB8-4394-9602-C968B9D2D2A4" 0 3200 50 H I L CNN "vault revision"
+F31 "yes" 0 3300 50 H I L CNN "imported"
+DRAW
+X IN 1 100 0 100 R 40 40 1 1 W 
+X GND 2 500 -500 100 U 40 40 1 1 W 
+X EN 3 100 -200 100 R 40 40 1 1 I 
+X NC 4 900 -200 100 L 40 40 1 1 P 
+X OUT 5 900 0 100 L 40 40 1 1 W 
+S 200 100 800 -400 1 1 0 f
+ENDDRAW
+ENDDEF
+#
+# End Library
