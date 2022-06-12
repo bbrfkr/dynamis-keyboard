@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="59.40044cm"
-   height="41.998901cm"
-   viewBox="0 0 594004400 419989000"
+   width="34.548866cm"
+   height="11.216923cm"
+   viewBox="0 0 3.4548866e+08 1.1216922e+08"
    id="svg5726"
-   sodipodi:docname="backup.svg"
+   sodipodi:docname="bottom.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    inkscape:export-filename="..\case\gasket\middle.svg"
    inkscape:export-xdpi="96"
@@ -13,7 +13,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs5730">
     <inkscape:path-effect
@@ -46,14 +49,14 @@
      inkscape:document-units="cm"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="1047.2251"
-     inkscape:cy="1105.2079"
+     inkscape:cx="214.96046"
+     inkscape:cy="376.88792"
      inkscape:window-width="1409"
      inkscape:window-height="1032"
      inkscape:window-x="404"
-     inkscape:window-y="72"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer5" />
+     inkscape:current-layer="g3092" />
   <title
      id="title2">SVG Picture created as dynamis-User_Drawings.svg date 2022/06/04 22:09:15 </title>
   <desc
@@ -62,7 +65,8 @@
      inkscape:groupmode="layer"
      id="g3092"
      inkscape:label="bottom"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-124428560,-192825010)">
     <path
        id="path13425-1-9"
        style="display:inline;fill:none;stroke:#ff00ff;stroke-width:100000;stroke-dasharray:none;stroke-opacity:1"
@@ -71,4 +75,13 @@
        inkscape:path-effect="#path-effect1134"
        inkscape:original-d="M 469867200,304945010 V 192875010 H 124477620 l 19900,112019200 z" />
   </g>
+  <metadata
+     id="metadata133">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>SVG Picture created as dynamis-User_Drawings.svg date 2022/06/04 22:09:15 </dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>

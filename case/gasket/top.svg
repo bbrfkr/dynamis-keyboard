@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="59.40044cm"
-   height="41.998901cm"
-   viewBox="0 0 594004400 419989000"
+   width="34.548885cm"
+   height="11.216938cm"
+   viewBox="0 0 3.4548885e+08 1.1216938e+08"
    id="svg5726"
-   sodipodi:docname="backup.svg"
+   sodipodi:docname="top.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    inkscape:export-filename="..\pcb.svg"
    inkscape:export-xdpi="96"
@@ -13,7 +13,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs5730">
     <inkscape:path-effect
@@ -46,12 +49,12 @@
      inkscape:document-units="cm"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="1047.2251"
-     inkscape:cy="1105.2079"
+     inkscape:cx="214.96046"
+     inkscape:cy="376.88792"
      inkscape:window-width="1409"
      inkscape:window-height="1032"
      inkscape:window-x="404"
-     inkscape:window-y="72"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer5" />
   <title
@@ -62,7 +65,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="top"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-124428600,-192825050)">
     <path
        id="path13425-1"
        style="display:inline;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:100000;stroke-dasharray:none;stroke-opacity:1"
@@ -70,4 +74,13 @@
        inkscape:path-effect="#path-effect475"
        inkscape:original-d="m 124477670,192875050 19640,112019000 345370130,51160 V 192875050 Z m 7497220,7499800 h 287549880 v 76210330 h 2960030 v -19040180 h 39882320 v 39899890 h -58949890 v -19050000 h -7705990 v 18999360 H 131999180 Z m 290892320,14315400 h 39099930 v 39104590 h -39102520 z" />
   </g>
+  <metadata
+     id="metadata237">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>SVG Picture created as dynamis-User_Drawings.svg date 2022/06/04 22:09:15 </dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
