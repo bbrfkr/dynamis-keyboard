@@ -1,0 +1,3289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\tatsunori\workspaces\for-keyboards\dynamis\dynamis.kicad_sch</source>
+    <date>2022/06/12 21:08:03</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>dynamis.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C0">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e2d766f-574d-463d-9017-d958cc2fc55c</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f25b37a3-3c55-47f4-a3b4-6e1715336293</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1μF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dabcb48-60e1-4f5e-91c2-cae1383155cd</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>4.7μF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0e4ce29-6874-4c05-8b65-486f2cfb8249</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1μF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2662648a-af49-4d26-8380-d5a1e17c877c</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1μF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12c3140f-f355-48a6-a29c-8b0ae7124bff</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1μF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0a6f0e0-800f-4b29-9c4a-671d6456b9e1</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1μF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fb36e97-a414-4683-97d4-3db0ce295355</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1μF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abefa844-7b1e-4c8e-a42a-7d36262870e8</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1μF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ff3e83b-9add-4726-ace7-beefe152ee78</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10μF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>deb9f22d-9c6e-4c4c-8cda-27ae2bc5a887</tstamps>
+    </comp>
+    <comp ref="D00_00">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2518752d-9c79-40df-aaee-8849c859f406</tstamps>
+    </comp>
+    <comp ref="D00_01">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1f7ba33-3024-4964-aa25-a95f551018be</tstamps>
+    </comp>
+    <comp ref="D00_02">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c815963d-5f0f-4907-804a-0d847a9ebc00</tstamps>
+    </comp>
+    <comp ref="D00_03">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>547daa3e-e2f4-421e-9ab0-1a40f806c1db</tstamps>
+    </comp>
+    <comp ref="D00_04">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ef6b092-3be5-4b00-8030-b9affffa9f54</tstamps>
+    </comp>
+    <comp ref="D00_05">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15159edb-1ae9-4959-a824-7b2b9b43f076</tstamps>
+    </comp>
+    <comp ref="D00_06">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9388edeb-c698-4ee5-8096-4316818da54e</tstamps>
+    </comp>
+    <comp ref="D01_00">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e61b12c-2387-44dd-b087-5d9dcb42a9cc</tstamps>
+    </comp>
+    <comp ref="D01_01">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e7f73aa-cf59-4800-afe2-b1bafa10a55b</tstamps>
+    </comp>
+    <comp ref="D01_02">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3428624-6437-4c02-b2ed-574be90cd86f</tstamps>
+    </comp>
+    <comp ref="D01_03">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f46afa1-8e6d-4174-8fd9-0bb642cf3099</tstamps>
+    </comp>
+    <comp ref="D01_04">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2d48f4d-8dd5-4433-b464-35eeed6b2f6f</tstamps>
+    </comp>
+    <comp ref="D01_05">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bef360c-d234-443e-83b0-ef762e5bc630</tstamps>
+    </comp>
+    <comp ref="D01_06">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a2f992b-8438-4b03-8f52-ecc81d7ad9d0</tstamps>
+    </comp>
+    <comp ref="D02_00">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4833a04c-feda-416c-b003-e2cb1c6e1be5</tstamps>
+    </comp>
+    <comp ref="D02_01">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84780f87-1e81-45b8-8aee-b2a108986de5</tstamps>
+    </comp>
+    <comp ref="D02_02">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48b028df-e3fb-46fa-9908-f477bb003113</tstamps>
+    </comp>
+    <comp ref="D02_03">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b5d0b1e-d9bf-44a2-a6e4-6dc0a0e44381</tstamps>
+    </comp>
+    <comp ref="D02_04">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a677895e-d1b0-49c4-9df7-a19f22aa7617</tstamps>
+    </comp>
+    <comp ref="D02_05">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92cdbcc6-b49c-4170-ba00-4c0f733979c5</tstamps>
+    </comp>
+    <comp ref="D02_06">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c3417a7-645e-471b-91e0-40b47751e822</tstamps>
+    </comp>
+    <comp ref="D03_00">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e947233-fe79-47c1-bbca-bb8d5307d6ee</tstamps>
+    </comp>
+    <comp ref="D03_01">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d977b9b0-050f-405f-9abf-705800f5dcad</tstamps>
+    </comp>
+    <comp ref="D03_02">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc3e2901-b3d2-4c70-94ed-cd3f5c1b5ff4</tstamps>
+    </comp>
+    <comp ref="D03_03">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea54b0f2-1958-4d76-90ad-c0002d30b31f</tstamps>
+    </comp>
+    <comp ref="D03_04">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de44feed-e038-4265-ad8f-25f173fba35a</tstamps>
+    </comp>
+    <comp ref="D03_05">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdcf90e8-69bc-49b6-b4bb-a574116572d4</tstamps>
+    </comp>
+    <comp ref="D03_06">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fdc2ff6-ad40-4a3d-ba69-2a477e2d4f9b</tstamps>
+    </comp>
+    <comp ref="D04_00">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>038c13e2-f531-431d-95d8-c9c3d474916f</tstamps>
+    </comp>
+    <comp ref="D04_01">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c62f61a-d656-4d17-8f22-e72882251797</tstamps>
+    </comp>
+    <comp ref="D04_02">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fc11c09-320a-43c0-a5cb-074100d899a4</tstamps>
+    </comp>
+    <comp ref="D04_03">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d89720d-1fd6-4499-b1c0-a2a168870ad8</tstamps>
+    </comp>
+    <comp ref="D04_04">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f6da973-ee99-46a6-8c0c-323d20ed0de6</tstamps>
+    </comp>
+    <comp ref="D04_05">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03a78958-0c85-42a4-8ec9-d9411b31c656</tstamps>
+    </comp>
+    <comp ref="D04_06">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17155802-12e8-4a94-aa17-c05ae94c9657</tstamps>
+    </comp>
+    <comp ref="D05_00">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>748c3750-58e9-4006-b8ed-d5a6484f98b9</tstamps>
+    </comp>
+    <comp ref="D05_01">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a57ae0ef-90c8-4054-b0b0-35390b70337e</tstamps>
+    </comp>
+    <comp ref="D05_02">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6358b7b-9c4e-4d61-b109-ba705dd470e8</tstamps>
+    </comp>
+    <comp ref="D05_03">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62e6330c-7279-4ff3-8938-d335e815a7b5</tstamps>
+    </comp>
+    <comp ref="D05_04">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f36258f-4fb6-4026-ac53-e91c6ca8b47c</tstamps>
+    </comp>
+    <comp ref="D05_05">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1dbd9e5-9aab-4153-b13f-bf2e711e4e22</tstamps>
+    </comp>
+    <comp ref="D05_06">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2641c192-29e9-4880-8ddf-a957b3544586</tstamps>
+    </comp>
+    <comp ref="D06_00">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cce40423-6c35-42ea-a6ec-024279c658da</tstamps>
+    </comp>
+    <comp ref="D06_01">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17d8dfb0-28d7-48e8-b79e-443babe56ed6</tstamps>
+    </comp>
+    <comp ref="D06_02">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bc9e232-872a-4064-b2d8-7753726f4162</tstamps>
+    </comp>
+    <comp ref="D06_03">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fc7938b-59fa-415b-a8fb-22e04b434053</tstamps>
+    </comp>
+    <comp ref="D06_04">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9b136ca-fa23-43b4-8b1f-6e00e7101c94</tstamps>
+    </comp>
+    <comp ref="D06_05">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4574a537-f5e0-41a6-9392-3b665c7b2168</tstamps>
+    </comp>
+    <comp ref="D06_06">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f340a4e-dd19-41ba-bdaa-62eec6c02dba</tstamps>
+    </comp>
+    <comp ref="D07_00">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03d25917-2b4a-4145-b0da-4897b57300ef</tstamps>
+    </comp>
+    <comp ref="D07_01">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0939bec-cf68-458a-8914-43e502c7c255</tstamps>
+    </comp>
+    <comp ref="D07_02">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47ad5e83-ea7d-4d08-82f4-a53ae2347955</tstamps>
+    </comp>
+    <comp ref="D07_03">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a941e684-8135-4d1a-836e-7a30665b04a7</tstamps>
+    </comp>
+    <comp ref="D07_04">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33a3ef93-bce3-4383-bd3e-75bfa15eb307</tstamps>
+    </comp>
+    <comp ref="D07_05">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cea84c9-b1bb-45c4-8230-2343b3fa39c9</tstamps>
+    </comp>
+    <comp ref="D07_06">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71d6daaf-ff74-45e8-ade9-dd4d325619b1</tstamps>
+    </comp>
+    <comp ref="D08_00">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4ce20b1-f5ed-485b-b831-af4b2a7c8e8e</tstamps>
+    </comp>
+    <comp ref="D08_01">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0908302c-6e0e-467d-9fdb-71ffe5a5223a</tstamps>
+    </comp>
+    <comp ref="D08_02">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cdab9ce-30ac-46eb-a013-49fbf6f6dd7c</tstamps>
+    </comp>
+    <comp ref="D08_03">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>562ab22f-2d2c-4d30-8aba-868d3833ab47</tstamps>
+    </comp>
+    <comp ref="D08_04">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2a9f02a-aef0-4671-8a76-87af9cde4436</tstamps>
+    </comp>
+    <comp ref="D08_05">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a88c425-aa59-4aad-892f-921b9021310e</tstamps>
+    </comp>
+    <comp ref="D08_06">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67b0adee-6677-4362-a1a9-11941e4d4c8a</tstamps>
+    </comp>
+    <comp ref="D09_00">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18544d16-5d80-4342-8e89-e79f57b28792</tstamps>
+    </comp>
+    <comp ref="D09_01">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a27b1c3d-6876-4c5c-8e23-d34ec41bfe0d</tstamps>
+    </comp>
+    <comp ref="D09_02">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f875b14-e893-4258-8545-67eea5473071</tstamps>
+    </comp>
+    <comp ref="D09_03">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>523574c2-6d56-4067-936c-868f8ef1b6d8</tstamps>
+    </comp>
+    <comp ref="D09_04">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>899421e2-1935-47d0-8fb0-28fba565e2b6</tstamps>
+    </comp>
+    <comp ref="D09_05">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d0650f8-8377-40f2-8b72-74e860fbfac1</tstamps>
+    </comp>
+    <comp ref="D09_06">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>598302dc-acb4-48da-955e-e41a50ea8240</tstamps>
+    </comp>
+    <comp ref="J0">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6235f215-290e-467d-9b11-8225de7e7c82</tstamps>
+    </comp>
+    <comp ref="JP0">
+      <value>SJ</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ec9cd47-9c74-4cc9-ae25-135518124b3e</tstamps>
+    </comp>
+    <comp ref="LED0">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a282a0a-a9df-4582-afc7-fda073802c1d</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23fc5267-9651-46f3-949b-808591b99d35</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80c3b2f9-c65d-4a03-ba2e-cfd2531d90d4</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b89d8ceb-c3c9-4bd2-84fa-346664347466</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99ab38bc-ef3c-42c5-9c50-227560362606</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2446d9c-5cc4-4b81-b32f-49e875dc6b36</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ff71e15-46a1-453b-8484-15d2d52807e3</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e7bdc61-ecbd-4edb-8a60-6d2396db8c69</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c138ff08-e619-4b6c-af54-3d6f6facfdc5</tstamps>
+    </comp>
+    <comp ref="LED9">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a9cc1ae-223b-4b57-aaad-753bb4b1d4ec</tstamps>
+    </comp>
+    <comp ref="R0">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2027c4a6-4580-4bbd-a059-19dfc3a30b33</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53278497-bac3-4ecf-8dc9-abfc7e9f6a61</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48858a5e-8a3c-45b5-825e-aa4e8ab1196e</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e66cc2e-1f45-4450-9e89-1c9aa1d25d49</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>016b9bd3-dfee-4e2f-b530-e1c5209a6d84</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2142cb7e-f864-4d5d-a25b-67fd0a72d338</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>39</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2f3953d-2b4a-418f-a2dc-f56255d4200d</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99e12e99-bd41-4c11-b80f-fcc2b72426ad</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>551322da-8973-44da-832a-6d2395358ff4</tstamps>
+    </comp>
+    <comp ref="RE0">
+      <value>RotaryEncoder</value>
+      <footprint>Rotary_Encoder:RotaryEncoder_Alps_EC12E_Vertical_H20mm</footprint>
+      <libsource lib="Device" part="RotaryEncoder" description="Rotary encoder, dual channel, incremental quadrate outputs"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e6ed6a7-92fb-4c65-8368-293ff40932f1</tstamps>
+    </comp>
+    <comp ref="RESET_SW0">
+      <value>TS-1187A-B-A-B</value>
+      <footprint>TS-1187A-B-A-B:SW_TS-1187A-B-A-B</footprint>
+      <fields>
+        <field name="MANUFACTURER">XKB Industrial Precision</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.5mm</field>
+        <field name="PARTREV">A0</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TS-1187A-B-A-B" part="TS-1187A-B-A-B" description=""/>
+      <property name="MANUFACTURER" value="XKB Industrial Precision"/>
+      <property name="PARTREV" value="A0"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.5mm"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7142d822-75e7-4b0e-815e-793b5f292660</tstamps>
+    </comp>
+    <comp ref="SW00_00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5975e478-5bd0-47a0-865a-0055804923fc</tstamps>
+    </comp>
+    <comp ref="SW00_01">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72019c3a-e4ad-448a-85ea-780e04ae0776</tstamps>
+    </comp>
+    <comp ref="SW00_02">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e632026-34b5-4e6d-b1a7-550d68c7cfb8</tstamps>
+    </comp>
+    <comp ref="SW00_03">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe2133d9-825c-43f2-9751-f02908cba07e</tstamps>
+    </comp>
+    <comp ref="SW00_04">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>791be431-3008-4384-8166-ab5b5e31260f</tstamps>
+    </comp>
+    <comp ref="SW00_05">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05d520fd-0053-4212-a933-8511ee2d8b6d</tstamps>
+    </comp>
+    <comp ref="SW00_06">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1521f8fc-768a-4593-8ea7-5ca923578180</tstamps>
+    </comp>
+    <comp ref="SW01_00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.5U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9102d4fd-a4fd-406b-b136-65e8778ba37a</tstamps>
+    </comp>
+    <comp ref="SW01_01">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5aee8923-7bd0-44b1-8978-89bd0199ccdc</tstamps>
+    </comp>
+    <comp ref="SW01_02">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8be3053b-0219-445c-877b-454c2d204e74</tstamps>
+    </comp>
+    <comp ref="SW01_03">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85fe888b-3536-4389-b0f9-99ee67c8288b</tstamps>
+    </comp>
+    <comp ref="SW01_04">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2489041f-f62d-46c8-972e-c38d55c0a53e</tstamps>
+    </comp>
+    <comp ref="SW01_05">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d00d7a8d-62ad-483e-91c8-34a75f76357b</tstamps>
+    </comp>
+    <comp ref="SW01_06">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ac25211-a207-4218-b336-5f01908ac4cf</tstamps>
+    </comp>
+    <comp ref="SW02_01">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45d1c84a-7d60-42d6-85e7-d0c7af982e13</tstamps>
+    </comp>
+    <comp ref="SW02_02">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6aeecc4-611d-4fbc-ac14-72009a8d34ad</tstamps>
+    </comp>
+    <comp ref="SW02_03">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1faf655-9b38-44fa-a475-b46ca624e766</tstamps>
+    </comp>
+    <comp ref="SW02_04">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee8c9d0e-ff7b-46f8-b76c-968ad08b4189</tstamps>
+    </comp>
+    <comp ref="SW02_05">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60c8474a-36e3-430c-9a6d-e86d2556ed38</tstamps>
+    </comp>
+    <comp ref="SW02_06">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3782d4e5-39a4-418a-82f6-0851b6ddbc3c</tstamps>
+    </comp>
+    <comp ref="SW03_00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>137c9bb4-cef2-49d8-816d-0435181115e9</tstamps>
+    </comp>
+    <comp ref="SW03_02">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a10c63b9-6120-40a7-b596-b97c0b139c08</tstamps>
+    </comp>
+    <comp ref="SW03_03">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>554175e3-6b68-4f91-8184-cc8da6bda55f</tstamps>
+    </comp>
+    <comp ref="SW03_04">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8bbc687-17b5-4985-aafe-5a684aa53d74</tstamps>
+    </comp>
+    <comp ref="SW03_05">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29c56526-93fd-4a95-97b7-1b2427a1cee3</tstamps>
+    </comp>
+    <comp ref="SW03_06">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f681f63-a5c4-4184-aeda-bcc2ff6b2a6b</tstamps>
+    </comp>
+    <comp ref="SW04_00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc9dc751-a90b-46ad-a8f8-a51b042fbd98</tstamps>
+    </comp>
+    <comp ref="SW04_01">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d86da172-742e-42a7-9436-ea2f670f5426</tstamps>
+    </comp>
+    <comp ref="SW04_02">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea38bbb0-5ab0-48fa-85e6-680466db67de</tstamps>
+    </comp>
+    <comp ref="SW04_03">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-2.25U-Hotswap-ReversedStabilizers</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4aa4c347-95cb-4ace-98c0-c4be2a1ea888</tstamps>
+    </comp>
+    <comp ref="SW04_05">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-2.75U-Hotswap-ReversedStabilizers</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7f76520-0170-4312-a67a-ffb5422618c1</tstamps>
+    </comp>
+    <comp ref="SW04_06">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>546ab452-9c20-48f7-8e37-39840fcf051e</tstamps>
+    </comp>
+    <comp ref="SW05_01">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>280b886c-eced-4089-af46-484f6398b36a</tstamps>
+    </comp>
+    <comp ref="SW05_02">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6bb7736-c58d-412e-805c-ba50e70bccca</tstamps>
+    </comp>
+    <comp ref="SW05_03">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4006af1d-e725-4c1d-a3a9-e8b6bc5933ec</tstamps>
+    </comp>
+    <comp ref="SW05_04">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7afa3aee-3070-4482-a537-eecfab57d098</tstamps>
+    </comp>
+    <comp ref="SW05_05">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b859c9df-dc9d-46c4-aefb-e261e9d635fd</tstamps>
+    </comp>
+    <comp ref="SW05_06">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db105e81-eb61-4f17-b1a0-b107aa49ccd5</tstamps>
+    </comp>
+    <comp ref="SW06_00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24dd2d93-7aba-4636-b1df-8e0be3377223</tstamps>
+    </comp>
+    <comp ref="SW06_01">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8fa864c-086e-4fd9-9fb1-c612c5022797</tstamps>
+    </comp>
+    <comp ref="SW06_02">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afb7227a-302f-48dd-be7a-cdf7a6b8ccd9</tstamps>
+    </comp>
+    <comp ref="SW06_03">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95461c60-eaa3-42bf-adc7-ad9ab9f2c2e9</tstamps>
+    </comp>
+    <comp ref="SW06_04">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6782a797-bf71-4d7f-85b3-2dec847e4895</tstamps>
+    </comp>
+    <comp ref="SW06_05">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a169010a-9a87-44d5-8c12-d0b207efc446</tstamps>
+    </comp>
+    <comp ref="SW06_06">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c74d947b-c712-44d8-a48a-2fe8696a48db</tstamps>
+    </comp>
+    <comp ref="SW07_01">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21c0c804-9f20-4c32-8acf-7ab514cb6191</tstamps>
+    </comp>
+    <comp ref="SW07_02">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b39a06a-7b2b-4f3b-9ab0-e33ac2a4b83f</tstamps>
+    </comp>
+    <comp ref="SW07_03">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26b54e68-e69c-403d-9262-fca244a398f2</tstamps>
+    </comp>
+    <comp ref="SW07_04">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c9474a4-e3b2-4b2d-81f7-6053a9af1b91</tstamps>
+    </comp>
+    <comp ref="SW07_05">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27a78e4d-c625-443e-ae8e-21a9deb7cc27</tstamps>
+    </comp>
+    <comp ref="SW07_06">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d8b88fc-8f70-49eb-9b96-0db93b66adda</tstamps>
+    </comp>
+    <comp ref="SW08_00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ece70987-bf52-4606-8e86-d7b320f196ac</tstamps>
+    </comp>
+    <comp ref="SW08_02">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b826b7a-105d-4a17-8df0-7ef10e036980</tstamps>
+    </comp>
+    <comp ref="SW08_03">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3cd5724-a639-4ee0-ba5d-51263b49659d</tstamps>
+    </comp>
+    <comp ref="SW08_04">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9920fee-425e-4358-a74c-2d7ebdd247b3</tstamps>
+    </comp>
+    <comp ref="SW08_05">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9204682d-6120-499d-a329-e4922d239c60</tstamps>
+    </comp>
+    <comp ref="SW08_06">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1016718a-e24d-4306-b05d-9e3e14882286</tstamps>
+    </comp>
+    <comp ref="SW09_00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe0a8d05-82d6-4292-92a0-530491bba4b3</tstamps>
+    </comp>
+    <comp ref="SW09_01">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23135519-bc61-4db3-8f01-837b9e8a070a</tstamps>
+    </comp>
+    <comp ref="SW09_02">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77803ea4-220b-4d19-be23-3650069aa3d9</tstamps>
+    </comp>
+    <comp ref="SW09_03">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b2781fd-1b90-4a0d-ae52-44994e654ad6</tstamps>
+    </comp>
+    <comp ref="SW09_04">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e55fea30-aa97-4483-81df-3194dc8452a2</tstamps>
+    </comp>
+    <comp ref="SW09_05">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddf1c385-a263-4fc1-8613-acab53f9b323</tstamps>
+    </comp>
+    <comp ref="SW09_06">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ad5d3f2-80d9-4b6c-b2c2-6bfc63f91d56</tstamps>
+    </comp>
+    <comp ref="SWBS_L00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-2U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>242848dd-68e1-409d-84f4-8dbe61109d81</tstamps>
+    </comp>
+    <comp ref="SWBS_S00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfa7d1d5-8feb-4332-a0aa-c75ccbfcbe13</tstamps>
+    </comp>
+    <comp ref="SWCL_N00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.75U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffe175ea-42f2-470c-b46f-90f2cbe3f0ff</tstamps>
+    </comp>
+    <comp ref="SWCL_S00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a35e36ee-25ac-4dd5-b322-b0bba5a3304d</tstamps>
+    </comp>
+    <comp ref="SWET_AN00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2e6c5f7-5ada-4087-a9c1-14b8507aab9c</tstamps>
+    </comp>
+    <comp ref="SWET_IS00">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed4a17d1-39ef-482b-b732-5e580337b001</tstamps>
+    </comp>
+    <comp ref="SWLS_L01">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-2.25U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>522dcea8-d2ed-4ba6-aa08-62ba3bba8274</tstamps>
+    </comp>
+    <comp ref="SWLS_S01">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2ba2bfe-ff14-4f80-8b9d-584629c2c054</tstamps>
+    </comp>
+    <comp ref="SWRS_L01">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-2.75U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18de9ef8-573a-4b7d-81ce-4057697dc243</tstamps>
+    </comp>
+    <comp ref="SWRS_S01">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.75U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd107a34-833d-49c3-a487-0686d925d885</tstamps>
+    </comp>
+    <comp ref="SWSP_L04">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-6.25U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3fc08c8-08cb-41f1-8731-591d9817c60f</tstamps>
+    </comp>
+    <comp ref="SWSP_S04">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>941cab0a-a664-42da-b505-b0c71a8e8855</tstamps>
+    </comp>
+    <comp ref="U0">
+      <value>ATmega32U4-A</value>
+      <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
+      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-A" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>766d6dc8-548d-4e09-99dc-3b9c770853a9</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>PMW3360DM-T2QU</value>
+      <footprint>PMW3360DM-T2QU:PMW3360</footprint>
+      <datasheet>http://www.pixart.com.tw/upload/PMS0058-PMW3360DM-T2QU-NNDS-R1.30-06042016_20160902201411.pdf</datasheet>
+      <fields>
+        <field name="Description">Optical gaming navigation sensor</field>
+        <field name="Manufacturer_Name">PixArt Imaging Inc.</field>
+        <field name="Manufacturer_Part_Number">PMW3360DM-T2QU</field>
+      </fields>
+      <libsource lib="PMW3360DM-T2QU" part="PMW3360DM-T2QU" description="Optical gaming navigation sensor"/>
+      <property name="Description" value="Optical gaming navigation sensor"/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value="PixArt Imaging Inc."/>
+      <property name="Manufacturer_Part_Number" value="PMW3360DM-T2QU"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77654518-314b-40c0-9b84-1f03d77c63ea</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TLV70019DDCR</value>
+      <footprint>TLV70019DDCR:Texas_Instruments-TLV70019DDCR-Level_A</footprint>
+      <datasheet>http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TLV70019&amp;fileType=pdf</datasheet>
+      <fields>
+        <field name="Accuracy">2</field>
+        <field name="Code  JEDEC">MO-193</field>
+        <field name="Component Link 1 Description">Manufacturer URL</field>
+        <field name="Component Link 1 URL">http://www.ti.com/</field>
+        <field name="Component Link 3 Description">Package Specification</field>
+        <field name="Component Link 3 URL">http://www.ti.com/litv/pdf/mpds123d</field>
+        <field name="Datasheet Version">SLVSA00D</field>
+        <field name="Fixed Output OptionsV">1.9</field>
+        <field name="Iout Max A">0.2</field>
+        <field name="Iq Typm A">0.03</field>
+        <field name="Mounting Technology">Surface Mount</field>
+        <field name="Package Description">5-Pin Plastic Small Outline, Body 2.9 x 1.6 mm, 0.95 mm Pitch</field>
+        <field name="Package Version">4204403-2/E</field>
+        <field name="Sub Family">Single Channel LDO</field>
+        <field name="Vdo Typm V">175</field>
+        <field name="Vin Max V">5.5</field>
+        <field name="Vin Min V">2</field>
+        <field name="Vout AdjMaxV">1.9</field>
+        <field name="Vout AdjMinV">1.9</field>
+        <field name="category">IC</field>
+        <field name="ciiva ids">3258691</field>
+        <field name="imported">yes</field>
+        <field name="library id">cd49f8ad7f5d1360</field>
+        <field name="manufacturer">Texas Instruments</field>
+        <field name="package">DDC0005A</field>
+        <field name="release date">1464593191</field>
+        <field name="rohs">Yes</field>
+        <field name="vault revision">6830DAB3-6FB8-4394-9602-C968B9D2D2A4</field>
+      </fields>
+      <libsource lib="TLV70019DDCR" part="TLV70019DDCR" description="TLV70019DDCR"/>
+      <property name="Accuracy" value="2"/>
+      <property name="Code  JEDEC" value="MO-193"/>
+      <property name="Component Link 1 Description" value="Manufacturer URL"/>
+      <property name="Component Link 1 URL" value="http://www.ti.com/"/>
+      <property name="Component Link 3 Description" value="Package Specification"/>
+      <property name="Component Link 3 URL" value="http://www.ti.com/litv/pdf/mpds123d"/>
+      <property name="Datasheet Version" value="SLVSA00D"/>
+      <property name="Fixed Output OptionsV" value="1.9"/>
+      <property name="Iout Max A" value="0.2"/>
+      <property name="Iq Typm A" value="0.03"/>
+      <property name="Mounting Technology" value="Surface Mount"/>
+      <property name="Package Description" value="5-Pin Plastic Small Outline, Body 2.9 x 1.6 mm, 0.95 mm Pitch"/>
+      <property name="Package Version" value="4204403-2/E"/>
+      <property name="Sub Family" value="Single Channel LDO"/>
+      <property name="Vdo Typm V" value="175"/>
+      <property name="Vin Max V" value="5.5"/>
+      <property name="Vin Min V" value="2"/>
+      <property name="Vout AdjMaxV" value="1.9"/>
+      <property name="Vout AdjMinV" value="1.9"/>
+      <property name="category" value="IC"/>
+      <property name="ciiva ids" value="3258691"/>
+      <property name="library id" value="cd49f8ad7f5d1360"/>
+      <property name="manufacturer" value="Texas Instruments"/>
+      <property name="package" value="DDC0005A"/>
+      <property name="release date" value="1464593191"/>
+      <property name="rohs" value="Yes"/>
+      <property name="vault revision" value="6830DAB3-6FB8-4394-9602-C968B9D2D2A4"/>
+      <property name="imported" value="yes"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bacaf16-ab40-468b-802f-bbc911ac1e75</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>74LVC1T45GW,125</value>
+      <footprint>74LVC1T45GW:Nexperia-SOT363-11_2018-0-IPC_A</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH1T45.pdf</datasheet>
+      <fields>
+        <field name="ambient temperature range high">+125°C</field>
+        <field name="ambient temperature range low">-40°C</field>
+        <field name="automotive">No</field>
+        <field name="category">IC</field>
+        <field name="device class L1">Integrated Circuits (ICs)</field>
+        <field name="device class L2">Logic ICs</field>
+        <field name="device class L3">Drivers and Transceivers</field>
+        <field name="digikey description">IC TRNSLTR BIDIRECTIONAL 6TSSOP</field>
+        <field name="digikey part number">1727-4560-1-ND</field>
+        <field name="footprint url">https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf</field>
+        <field name="height">1.1mm</field>
+        <field name="lead free">Yes</field>
+        <field name="library id">2d660f43f9fba5f8</field>
+        <field name="logic function">Non-Inverting</field>
+        <field name="logic function desc">Non-Inverting</field>
+        <field name="manufacturer">Nexperia</field>
+        <field name="max supply voltage">5.5V</field>
+        <field name="min supply voltage">1.2V</field>
+        <field name="mouser part number">771-74LVC1T45GW125</field>
+        <field name="nominal supply current">2-75uA</field>
+        <field name="number of circuits">1</field>
+        <field name="number of inputs">1</field>
+        <field name="number of outputs">1</field>
+        <field name="package">SOT363</field>
+        <field name="propagation delay">2.5ns</field>
+        <field name="rohs">Yes</field>
+        <field name="temperature range high">+125°C</field>
+        <field name="temperature range low">-40°C</field>
+      </fields>
+      <libsource lib="74LVC1T45GW" part="74LVC1T45GW,125" description="74LVC1T45GW,125"/>
+      <property name="ambient temperature range high" value="+125°C"/>
+      <property name="ambient temperature range low" value="-40°C"/>
+      <property name="automotive" value="No"/>
+      <property name="category" value="IC"/>
+      <property name="device class L1" value="Integrated Circuits (ICs)"/>
+      <property name="device class L2" value="Logic ICs"/>
+      <property name="device class L3" value="Drivers and Transceivers"/>
+      <property name="digikey description" value="IC TRNSLTR BIDIRECTIONAL 6TSSOP"/>
+      <property name="digikey part number" value="1727-4560-1-ND"/>
+      <property name="footprint url" value="https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf"/>
+      <property name="height" value="1.1mm"/>
+      <property name="lead free" value="Yes"/>
+      <property name="library id" value="2d660f43f9fba5f8"/>
+      <property name="logic function" value="Non-Inverting"/>
+      <property name="logic function desc" value="Non-Inverting"/>
+      <property name="manufacturer" value="Nexperia"/>
+      <property name="max supply voltage" value="5.5V"/>
+      <property name="min supply voltage" value="1.2V"/>
+      <property name="mouser part number" value="771-74LVC1T45GW125"/>
+      <property name="nominal supply current" value="2-75uA"/>
+      <property name="number of circuits" value="1"/>
+      <property name="number of inputs" value="1"/>
+      <property name="number of outputs" value="1"/>
+      <property name="package" value="SOT363"/>
+      <property name="propagation delay" value="2.5ns"/>
+      <property name="rohs" value="Yes"/>
+      <property name="temperature range high" value="+125°C"/>
+      <property name="temperature range low" value="-40°C"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>828d593c-89a6-47eb-ab3d-de6bd5a012fb</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>74LVC1T45GW,125</value>
+      <footprint>74LVC1T45GW:Nexperia-SOT363-11_2018-0-IPC_A</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH1T45.pdf</datasheet>
+      <fields>
+        <field name="ambient temperature range high">+125°C</field>
+        <field name="ambient temperature range low">-40°C</field>
+        <field name="automotive">No</field>
+        <field name="category">IC</field>
+        <field name="device class L1">Integrated Circuits (ICs)</field>
+        <field name="device class L2">Logic ICs</field>
+        <field name="device class L3">Drivers and Transceivers</field>
+        <field name="digikey description">IC TRNSLTR BIDIRECTIONAL 6TSSOP</field>
+        <field name="digikey part number">1727-4560-1-ND</field>
+        <field name="footprint url">https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf</field>
+        <field name="height">1.1mm</field>
+        <field name="lead free">Yes</field>
+        <field name="library id">2d660f43f9fba5f8</field>
+        <field name="logic function">Non-Inverting</field>
+        <field name="logic function desc">Non-Inverting</field>
+        <field name="manufacturer">Nexperia</field>
+        <field name="max supply voltage">5.5V</field>
+        <field name="min supply voltage">1.2V</field>
+        <field name="mouser part number">771-74LVC1T45GW125</field>
+        <field name="nominal supply current">2-75uA</field>
+        <field name="number of circuits">1</field>
+        <field name="number of inputs">1</field>
+        <field name="number of outputs">1</field>
+        <field name="package">SOT363</field>
+        <field name="propagation delay">2.5ns</field>
+        <field name="rohs">Yes</field>
+        <field name="temperature range high">+125°C</field>
+        <field name="temperature range low">-40°C</field>
+      </fields>
+      <libsource lib="74LVC1T45GW" part="74LVC1T45GW,125" description="74LVC1T45GW,125"/>
+      <property name="ambient temperature range high" value="+125°C"/>
+      <property name="ambient temperature range low" value="-40°C"/>
+      <property name="automotive" value="No"/>
+      <property name="category" value="IC"/>
+      <property name="device class L1" value="Integrated Circuits (ICs)"/>
+      <property name="device class L2" value="Logic ICs"/>
+      <property name="device class L3" value="Drivers and Transceivers"/>
+      <property name="digikey description" value="IC TRNSLTR BIDIRECTIONAL 6TSSOP"/>
+      <property name="digikey part number" value="1727-4560-1-ND"/>
+      <property name="footprint url" value="https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf"/>
+      <property name="height" value="1.1mm"/>
+      <property name="lead free" value="Yes"/>
+      <property name="library id" value="2d660f43f9fba5f8"/>
+      <property name="logic function" value="Non-Inverting"/>
+      <property name="logic function desc" value="Non-Inverting"/>
+      <property name="manufacturer" value="Nexperia"/>
+      <property name="max supply voltage" value="5.5V"/>
+      <property name="min supply voltage" value="1.2V"/>
+      <property name="mouser part number" value="771-74LVC1T45GW125"/>
+      <property name="nominal supply current" value="2-75uA"/>
+      <property name="number of circuits" value="1"/>
+      <property name="number of inputs" value="1"/>
+      <property name="number of outputs" value="1"/>
+      <property name="package" value="SOT363"/>
+      <property name="propagation delay" value="2.5ns"/>
+      <property name="rohs" value="Yes"/>
+      <property name="temperature range high" value="+125°C"/>
+      <property name="temperature range low" value="-40°C"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c5b0cf7-8236-4e70-90a2-0f77890a2880</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>74LVC1T45GW,125</value>
+      <footprint>74LVC1T45GW:Nexperia-SOT363-11_2018-0-IPC_A</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH1T45.pdf</datasheet>
+      <fields>
+        <field name="ambient temperature range high">+125°C</field>
+        <field name="ambient temperature range low">-40°C</field>
+        <field name="automotive">No</field>
+        <field name="category">IC</field>
+        <field name="device class L1">Integrated Circuits (ICs)</field>
+        <field name="device class L2">Logic ICs</field>
+        <field name="device class L3">Drivers and Transceivers</field>
+        <field name="digikey description">IC TRNSLTR BIDIRECTIONAL 6TSSOP</field>
+        <field name="digikey part number">1727-4560-1-ND</field>
+        <field name="footprint url">https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf</field>
+        <field name="height">1.1mm</field>
+        <field name="lead free">Yes</field>
+        <field name="library id">2d660f43f9fba5f8</field>
+        <field name="logic function">Non-Inverting</field>
+        <field name="logic function desc">Non-Inverting</field>
+        <field name="manufacturer">Nexperia</field>
+        <field name="max supply voltage">5.5V</field>
+        <field name="min supply voltage">1.2V</field>
+        <field name="mouser part number">771-74LVC1T45GW125</field>
+        <field name="nominal supply current">2-75uA</field>
+        <field name="number of circuits">1</field>
+        <field name="number of inputs">1</field>
+        <field name="number of outputs">1</field>
+        <field name="package">SOT363</field>
+        <field name="propagation delay">2.5ns</field>
+        <field name="rohs">Yes</field>
+        <field name="temperature range high">+125°C</field>
+        <field name="temperature range low">-40°C</field>
+      </fields>
+      <libsource lib="74LVC1T45GW" part="74LVC1T45GW,125" description="74LVC1T45GW,125"/>
+      <property name="ambient temperature range high" value="+125°C"/>
+      <property name="ambient temperature range low" value="-40°C"/>
+      <property name="automotive" value="No"/>
+      <property name="category" value="IC"/>
+      <property name="device class L1" value="Integrated Circuits (ICs)"/>
+      <property name="device class L2" value="Logic ICs"/>
+      <property name="device class L3" value="Drivers and Transceivers"/>
+      <property name="digikey description" value="IC TRNSLTR BIDIRECTIONAL 6TSSOP"/>
+      <property name="digikey part number" value="1727-4560-1-ND"/>
+      <property name="footprint url" value="https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf"/>
+      <property name="height" value="1.1mm"/>
+      <property name="lead free" value="Yes"/>
+      <property name="library id" value="2d660f43f9fba5f8"/>
+      <property name="logic function" value="Non-Inverting"/>
+      <property name="logic function desc" value="Non-Inverting"/>
+      <property name="manufacturer" value="Nexperia"/>
+      <property name="max supply voltage" value="5.5V"/>
+      <property name="min supply voltage" value="1.2V"/>
+      <property name="mouser part number" value="771-74LVC1T45GW125"/>
+      <property name="nominal supply current" value="2-75uA"/>
+      <property name="number of circuits" value="1"/>
+      <property name="number of inputs" value="1"/>
+      <property name="number of outputs" value="1"/>
+      <property name="package" value="SOT363"/>
+      <property name="propagation delay" value="2.5ns"/>
+      <property name="rohs" value="Yes"/>
+      <property name="temperature range high" value="+125°C"/>
+      <property name="temperature range low" value="-40°C"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22d3db4f-2c84-4a72-9c37-010e589db0d9</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>74LVC1T45GW,125</value>
+      <footprint>74LVC1T45GW:Nexperia-SOT363-11_2018-0-IPC_A</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH1T45.pdf</datasheet>
+      <fields>
+        <field name="ambient temperature range high">+125°C</field>
+        <field name="ambient temperature range low">-40°C</field>
+        <field name="automotive">No</field>
+        <field name="category">IC</field>
+        <field name="device class L1">Integrated Circuits (ICs)</field>
+        <field name="device class L2">Logic ICs</field>
+        <field name="device class L3">Drivers and Transceivers</field>
+        <field name="digikey description">IC TRNSLTR BIDIRECTIONAL 6TSSOP</field>
+        <field name="digikey part number">1727-4560-1-ND</field>
+        <field name="footprint url">https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf</field>
+        <field name="height">1.1mm</field>
+        <field name="lead free">Yes</field>
+        <field name="library id">2d660f43f9fba5f8</field>
+        <field name="logic function">Non-Inverting</field>
+        <field name="logic function desc">Non-Inverting</field>
+        <field name="manufacturer">Nexperia</field>
+        <field name="max supply voltage">5.5V</field>
+        <field name="min supply voltage">1.2V</field>
+        <field name="mouser part number">771-74LVC1T45GW125</field>
+        <field name="nominal supply current">2-75uA</field>
+        <field name="number of circuits">1</field>
+        <field name="number of inputs">1</field>
+        <field name="number of outputs">1</field>
+        <field name="package">SOT363</field>
+        <field name="propagation delay">2.5ns</field>
+        <field name="rohs">Yes</field>
+        <field name="temperature range high">+125°C</field>
+        <field name="temperature range low">-40°C</field>
+      </fields>
+      <libsource lib="74LVC1T45GW" part="74LVC1T45GW,125" description="74LVC1T45GW,125"/>
+      <property name="ambient temperature range high" value="+125°C"/>
+      <property name="ambient temperature range low" value="-40°C"/>
+      <property name="automotive" value="No"/>
+      <property name="category" value="IC"/>
+      <property name="device class L1" value="Integrated Circuits (ICs)"/>
+      <property name="device class L2" value="Logic ICs"/>
+      <property name="device class L3" value="Drivers and Transceivers"/>
+      <property name="digikey description" value="IC TRNSLTR BIDIRECTIONAL 6TSSOP"/>
+      <property name="digikey part number" value="1727-4560-1-ND"/>
+      <property name="footprint url" value="https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf"/>
+      <property name="height" value="1.1mm"/>
+      <property name="lead free" value="Yes"/>
+      <property name="library id" value="2d660f43f9fba5f8"/>
+      <property name="logic function" value="Non-Inverting"/>
+      <property name="logic function desc" value="Non-Inverting"/>
+      <property name="manufacturer" value="Nexperia"/>
+      <property name="max supply voltage" value="5.5V"/>
+      <property name="min supply voltage" value="1.2V"/>
+      <property name="mouser part number" value="771-74LVC1T45GW125"/>
+      <property name="nominal supply current" value="2-75uA"/>
+      <property name="number of circuits" value="1"/>
+      <property name="number of inputs" value="1"/>
+      <property name="number of outputs" value="1"/>
+      <property name="package" value="SOT363"/>
+      <property name="propagation delay" value="2.5ns"/>
+      <property name="rohs" value="Yes"/>
+      <property name="temperature range high" value="+125°C"/>
+      <property name="temperature range low" value="-40°C"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24882407-4cbd-45fa-80ee-c4c654dfb1b8</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>74LVC1T45GW,125</value>
+      <footprint>74LVC1T45GW:Nexperia-SOT363-11_2018-0-IPC_A</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH1T45.pdf</datasheet>
+      <fields>
+        <field name="ambient temperature range high">+125°C</field>
+        <field name="ambient temperature range low">-40°C</field>
+        <field name="automotive">No</field>
+        <field name="category">IC</field>
+        <field name="device class L1">Integrated Circuits (ICs)</field>
+        <field name="device class L2">Logic ICs</field>
+        <field name="device class L3">Drivers and Transceivers</field>
+        <field name="digikey description">IC TRNSLTR BIDIRECTIONAL 6TSSOP</field>
+        <field name="digikey part number">1727-4560-1-ND</field>
+        <field name="footprint url">https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf</field>
+        <field name="height">1.1mm</field>
+        <field name="lead free">Yes</field>
+        <field name="library id">2d660f43f9fba5f8</field>
+        <field name="logic function">Non-Inverting</field>
+        <field name="logic function desc">Non-Inverting</field>
+        <field name="manufacturer">Nexperia</field>
+        <field name="max supply voltage">5.5V</field>
+        <field name="min supply voltage">1.2V</field>
+        <field name="mouser part number">771-74LVC1T45GW125</field>
+        <field name="nominal supply current">2-75uA</field>
+        <field name="number of circuits">1</field>
+        <field name="number of inputs">1</field>
+        <field name="number of outputs">1</field>
+        <field name="package">SOT363</field>
+        <field name="propagation delay">2.5ns</field>
+        <field name="rohs">Yes</field>
+        <field name="temperature range high">+125°C</field>
+        <field name="temperature range low">-40°C</field>
+      </fields>
+      <libsource lib="74LVC1T45GW" part="74LVC1T45GW,125" description="74LVC1T45GW,125"/>
+      <property name="ambient temperature range high" value="+125°C"/>
+      <property name="ambient temperature range low" value="-40°C"/>
+      <property name="automotive" value="No"/>
+      <property name="category" value="IC"/>
+      <property name="device class L1" value="Integrated Circuits (ICs)"/>
+      <property name="device class L2" value="Logic ICs"/>
+      <property name="device class L3" value="Drivers and Transceivers"/>
+      <property name="digikey description" value="IC TRNSLTR BIDIRECTIONAL 6TSSOP"/>
+      <property name="digikey part number" value="1727-4560-1-ND"/>
+      <property name="footprint url" value="https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf"/>
+      <property name="height" value="1.1mm"/>
+      <property name="lead free" value="Yes"/>
+      <property name="library id" value="2d660f43f9fba5f8"/>
+      <property name="logic function" value="Non-Inverting"/>
+      <property name="logic function desc" value="Non-Inverting"/>
+      <property name="manufacturer" value="Nexperia"/>
+      <property name="max supply voltage" value="5.5V"/>
+      <property name="min supply voltage" value="1.2V"/>
+      <property name="mouser part number" value="771-74LVC1T45GW125"/>
+      <property name="nominal supply current" value="2-75uA"/>
+      <property name="number of circuits" value="1"/>
+      <property name="number of inputs" value="1"/>
+      <property name="number of outputs" value="1"/>
+      <property name="package" value="SOT363"/>
+      <property name="propagation delay" value="2.5ns"/>
+      <property name="rohs" value="Yes"/>
+      <property name="temperature range high" value="+125°C"/>
+      <property name="temperature range low" value="-40°C"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0a751b7-57e9-4500-a757-3ac52c352048</tstamps>
+    </comp>
+    <comp ref="Y0">
+      <value>16Mhz</value>
+      <footprint>Crystal:Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm</footprint>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dynamis.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38831ed9-e3c0-4097-9505-4da2cf2b7acd</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74LVC1T45GW" part="74LVC1T45GW,125">
+      <description>74LVC1T45GW,125</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH1T45.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LVC1T45GW,125</field>
+        <field name="Footprint">Nexperia-SOT363-11_2018-0-*</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH1T45.pdf</field>
+        <field name="ambient temperature range high">+125°C</field>
+        <field name="ambient temperature range low">-40°C</field>
+        <field name="automotive">No</field>
+        <field name="category">IC</field>
+        <field name="device class L1">Integrated Circuits (ICs)</field>
+        <field name="device class L2">Logic ICs</field>
+        <field name="device class L3">Drivers and Transceivers</field>
+        <field name="digikey description">IC TRNSLTR BIDIRECTIONAL 6TSSOP</field>
+        <field name="digikey part number">1727-4560-1-ND</field>
+        <field name="footprint url">https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf</field>
+        <field name="height">1.1mm</field>
+        <field name="lead free">Yes</field>
+        <field name="library id">2d660f43f9fba5f8</field>
+        <field name="logic function">Non-Inverting</field>
+        <field name="logic function desc">Non-Inverting</field>
+        <field name="manufacturer">Nexperia</field>
+        <field name="max supply voltage">5.5V</field>
+        <field name="min supply voltage">1.2V</field>
+        <field name="mouser part number">771-74LVC1T45GW125</field>
+        <field name="nominal supply current">2-75uA</field>
+        <field name="number of circuits">1</field>
+        <field name="number of inputs">1</field>
+        <field name="number of outputs">1</field>
+        <field name="package">SOT363</field>
+        <field name="propagation delay">2.5ns</field>
+        <field name="rohs">Yes</field>
+        <field name="temperature range high">+125°C</field>
+        <field name="temperature range low">-40°C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC(A)" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="A" type="bidirectional"/>
+        <pin num="4" name="B" type="bidirectional"/>
+        <pin num="5" name="DIR" type="input"/>
+        <pin num="6" name="VCC(B)" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="RotaryEncoder">
+      <description>Rotary encoder, dual channel, incremental quadrate outputs</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RotaryEncoder*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">RotaryEncoder</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_ATmega" part="ATmega32U4-A">
+      <description>16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</docs>
+      <footprints>
+        <fp>TQFP*10x10mm*P0.8mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega32U4-A</field>
+        <field name="Footprint">Package_QFP:TQFP-44_10x10mm_P0.8mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6" type="bidirectional"/>
+        <pin num="2" name="UVCC" type="power_in"/>
+        <pin num="3" name="D-" type="bidirectional"/>
+        <pin num="4" name="D+" type="bidirectional"/>
+        <pin num="5" name="UGND" type="passive"/>
+        <pin num="6" name="UCAP" type="passive"/>
+        <pin num="7" name="VBUS" type="input"/>
+        <pin num="8" name="PB0" type="bidirectional"/>
+        <pin num="9" name="PB1" type="bidirectional"/>
+        <pin num="10" name="PB2" type="bidirectional"/>
+        <pin num="11" name="PB3" type="bidirectional"/>
+        <pin num="12" name="PB7" type="bidirectional"/>
+        <pin num="13" name="~{RESET}" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL2" type="output"/>
+        <pin num="17" name="XTAL1" type="input"/>
+        <pin num="18" name="PD0" type="bidirectional"/>
+        <pin num="19" name="PD1" type="bidirectional"/>
+        <pin num="20" name="PD2" type="bidirectional"/>
+        <pin num="21" name="PD3" type="bidirectional"/>
+        <pin num="22" name="PD5" type="bidirectional"/>
+        <pin num="23" name="GND" type="passive"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="PD4" type="bidirectional"/>
+        <pin num="26" name="PD6" type="bidirectional"/>
+        <pin num="27" name="PD7" type="bidirectional"/>
+        <pin num="28" name="PB4" type="bidirectional"/>
+        <pin num="29" name="PB5" type="bidirectional"/>
+        <pin num="30" name="PB6" type="bidirectional"/>
+        <pin num="31" name="PC6" type="bidirectional"/>
+        <pin num="32" name="PC7" type="bidirectional"/>
+        <pin num="33" name="~{HWB}/PE2" type="bidirectional"/>
+        <pin num="34" name="VCC" type="passive"/>
+        <pin num="35" name="GND" type="passive"/>
+        <pin num="36" name="PF7" type="bidirectional"/>
+        <pin num="37" name="PF6" type="bidirectional"/>
+        <pin num="38" name="PF5" type="bidirectional"/>
+        <pin num="39" name="PF4" type="bidirectional"/>
+        <pin num="40" name="PF1" type="bidirectional"/>
+        <pin num="41" name="PF0" type="bidirectional"/>
+        <pin num="42" name="AREF" type="passive"/>
+        <pin num="43" name="GND" type="passive"/>
+        <pin num="44" name="AVCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PMW3360DM-T2QU" part="PMW3360DM-T2QU">
+      <description>Optical gaming navigation sensor</description>
+      <docs>http://www.pixart.com.tw/upload/PMS0058-PMW3360DM-T2QU-NNDS-R1.30-06042016_20160902201411.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PMW3360DM-T2QU</field>
+        <field name="Footprint">PMW3360</field>
+        <field name="Datasheet">http://www.pixart.com.tw/upload/PMS0058-PMW3360DM-T2QU-NNDS-R1.30-06042016_20160902201411.pdf</field>
+        <field name="Description">Optical gaming navigation sensor</field>
+        <field name="Manufacturer_Name">PixArt Imaging Inc.</field>
+        <field name="Manufacturer_Part_Number">PMW3360DM-T2QU</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC_1" type="passive"/>
+        <pin num="2" name="NC_2" type="passive"/>
+        <pin num="3" name="VDDPIX" type="passive"/>
+        <pin num="4" name="VDD" type="passive"/>
+        <pin num="5" name="VDDIO" type="passive"/>
+        <pin num="6" name="NC_3" type="passive"/>
+        <pin num="7" name="NRESET" type="passive"/>
+        <pin num="8" name="GND" type="passive"/>
+        <pin num="9" name="MOTION" type="passive"/>
+        <pin num="10" name="SCLK" type="passive"/>
+        <pin num="11" name="MOSI" type="passive"/>
+        <pin num="12" name="MISO" type="passive"/>
+        <pin num="13" name="NCS" type="passive"/>
+        <pin num="14" name="NC_4" type="passive"/>
+        <pin num="15" name="LED_P" type="passive"/>
+        <pin num="16" name="NC_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TLV70019DDCR" part="TLV70019DDCR">
+      <description>TLV70019DDCR</description>
+      <docs>http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TLV70019&amp;fileType=pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLV70019DDCR</field>
+        <field name="Footprint">Texas_Instruments-TLV70019DDCR-*</field>
+        <field name="Datasheet">http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TLV70019&amp;fileType=pdf</field>
+        <field name="Accuracy">2</field>
+        <field name="Code  JEDEC">MO-193</field>
+        <field name="Component Link 1 Description">Manufacturer URL</field>
+        <field name="Component Link 1 URL">http://www.ti.com/</field>
+        <field name="Component Link 3 Description">Package Specification</field>
+        <field name="Component Link 3 URL">http://www.ti.com/litv/pdf/mpds123d</field>
+        <field name="Datasheet Version">SLVSA00D</field>
+        <field name="Fixed Output OptionsV">1.9</field>
+        <field name="Iout Max A">0.2</field>
+        <field name="Iq Typm A">0.03</field>
+        <field name="Mounting Technology">Surface Mount</field>
+        <field name="Package Description">5-Pin Plastic Small Outline, Body 2.9 x 1.6 mm, 0.95 mm Pitch</field>
+        <field name="Package Version">4204403-2/E</field>
+        <field name="Sub Family">Single Channel LDO</field>
+        <field name="Vdo Typm V">175</field>
+        <field name="Vin Max V">5.5</field>
+        <field name="Vin Min V">2</field>
+        <field name="Vout AdjMaxV">1.9</field>
+        <field name="Vout AdjMinV">1.9</field>
+        <field name="category">IC</field>
+        <field name="ciiva ids">3258691</field>
+        <field name="library id">cd49f8ad7f5d1360</field>
+        <field name="manufacturer">Texas Instruments</field>
+        <field name="package">DDC0005A</field>
+        <field name="release date">1464593191</field>
+        <field name="rohs">Yes</field>
+        <field name="vault revision">6830DAB3-6FB8-4394-9602-C968B9D2D2A4</field>
+        <field name="imported">yes</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="passive"/>
+        <pin num="5" name="OUT" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TS-1187A-B-A-B" part="TS-1187A-B-A-B">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">TS-1187A-B-A-B</field>
+        <field name="Footprint">SW_TS-1187A-B-A-B</field>
+        <field name="MANUFACTURER">XKB Industrial Precision</field>
+        <field name="PARTREV">A0</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.5mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <pins>
+        <pin num="A" name="" type="passive"/>
+        <pin num="B" name="" type="passive"/>
+        <pin num="C" name="" type="passive"/>
+        <pin num="D" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74LVC1T45GW">
+      <uri>C:\Users\tatsunori\workspaces\for-keyboards\dynamis/lib/IC_Nexperia_74LVC1T45GW,125/eec.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/LED.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Microchip_ATmega">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_Microchip_ATmega.kicad_sym</uri>
+    </library>
+    <library logical="PMW3360DM-T2QU">
+      <uri>C:\Users\tatsunori\workspaces\for-keyboards\dynamis/lib/LIB_PMW3360DM-T2QU/PMW3360DM-T2QU/KiCad/PMW3360DM-T2QU.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="TLV70019DDCR">
+      <uri>C:\Users\tatsunori\workspaces\for-keyboards\dynamis/lib/IC_Texas Instruments_TLV70019DDCR/eec.lib</uri>
+    </library>
+    <library logical="TS-1187A-B-A-B">
+      <uri>C:\Users\tatsunori\workspaces\for-keyboards\dynamis/lib/TS-1187A-B-A-B/TS-1187A-B-A-B.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="D+">
+      <node ref="J0" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J0" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R0" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="D-">
+      <node ref="J0" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J0" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C0" pin="1" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J0" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J0" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J0" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J0" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J0" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="LED0" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED1" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED2" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED3" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED4" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED5" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED6" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED7" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED8" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED9" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="RE0" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="RESET_SW0" pin="C" pintype="passive"/>
+      <node ref="RESET_SW0" pin="D" pintype="passive"/>
+      <node ref="U0" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U0" pin="23" pinfunction="GND" pintype="passive"/>
+      <node ref="U0" pin="35" pinfunction="GND" pintype="passive"/>
+      <node ref="U0" pin="43" pinfunction="GND" pintype="passive"/>
+      <node ref="U0" pin="5" pinfunction="UGND" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="DIR" pintype="input"/>
+      <node ref="U7" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="Y0" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y0" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="4" name="LED">
+      <node ref="LED0" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="U0" pin="21" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="MISO">
+      <node ref="JP0" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="MISO" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="B" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="MISO-H">
+      <node ref="U0" pin="11" pinfunction="PB3" pintype="bidirectional"/>
+      <node ref="U7" pin="3" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="MOSI">
+      <node ref="U1" pin="11" pinfunction="MOSI" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="B" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="MOSI-H">
+      <node ref="U0" pin="10" pinfunction="PB2" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="MOT-H">
+      <node ref="U0" pin="20" pinfunction="PD2" pintype="bidirectional"/>
+      <node ref="U6" pin="3" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="MOTION">
+      <node ref="U1" pin="9" pinfunction="MOTION" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="B" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="Net-(C0-Pad2)">
+      <node ref="C0" pin="2" pintype="passive"/>
+      <node ref="U0" pin="17" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y0" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U0" pin="16" pinfunction="XTAL2" pintype="output"/>
+      <node ref="Y0" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U0" pin="6" pinfunction="UCAP" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VDDPIX" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D00_00-Pad2)">
+      <node ref="D00_00" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW00_00" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D00_01-Pad2)">
+      <node ref="D00_01" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW00_01" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D00_02-Pad2)">
+      <node ref="D00_02" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW00_02" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D00_03-Pad2)">
+      <node ref="D00_03" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW00_03" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D00_04-Pad2)">
+      <node ref="D00_04" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW00_04" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D00_05-Pad2)">
+      <node ref="D00_05" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW00_05" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D00_06-Pad2)">
+      <node ref="D00_06" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW00_06" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D01_00-Pad2)">
+      <node ref="D01_00" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW01_00" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D01_01-Pad2)">
+      <node ref="D01_01" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW01_01" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D01_02-Pad2)">
+      <node ref="D01_02" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW01_02" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D01_03-Pad2)">
+      <node ref="D01_03" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW01_03" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D01_04-Pad2)">
+      <node ref="D01_04" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW01_04" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D01_05-Pad2)">
+      <node ref="D01_05" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW01_05" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D01_06-Pad2)">
+      <node ref="D01_06" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW01_06" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D02_00-Pad2)">
+      <node ref="D02_00" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWCL_N00" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWCL_S00" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D02_01-Pad2)">
+      <node ref="D02_01" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW02_01" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D02_02-Pad2)">
+      <node ref="D02_02" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW02_02" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D02_03-Pad2)">
+      <node ref="D02_03" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW02_03" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D02_04-Pad2)">
+      <node ref="D02_04" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW02_04" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D02_05-Pad2)">
+      <node ref="D02_05" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW02_05" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D02_06-Pad2)">
+      <node ref="D02_06" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW02_06" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D03_00-Pad2)">
+      <node ref="D03_00" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW03_00" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D03_01-Pad2)">
+      <node ref="D03_01" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWLS_L01" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWLS_S01" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D03_02-Pad2)">
+      <node ref="D03_02" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW03_02" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D03_03-Pad2)">
+      <node ref="D03_03" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW03_03" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D03_04-Pad2)">
+      <node ref="D03_04" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW03_04" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D03_05-Pad2)">
+      <node ref="D03_05" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW03_05" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D03_06-Pad2)">
+      <node ref="D03_06" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW03_06" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D04_00-Pad2)">
+      <node ref="D04_00" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW04_00" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D04_01-Pad2)">
+      <node ref="D04_01" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW04_01" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D04_02-Pad2)">
+      <node ref="D04_02" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW04_02" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D04_03-Pad2)">
+      <node ref="D04_03" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW04_03" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D04_04-Pad2)">
+      <node ref="D04_04" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWSP_L04" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWSP_S04" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D04_05-Pad2)">
+      <node ref="D04_05" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW04_05" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D04_06-Pad2)">
+      <node ref="D04_06" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW04_06" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D05_00-Pad2)">
+      <node ref="D05_00" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWBS_L00" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWBS_S00" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D05_01-Pad2)">
+      <node ref="D05_01" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW05_01" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D05_02-Pad2)">
+      <node ref="D05_02" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW05_02" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D05_03-Pad2)">
+      <node ref="D05_03" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW05_03" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D05_04-Pad2)">
+      <node ref="D05_04" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW05_04" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D05_05-Pad2)">
+      <node ref="D05_05" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW05_05" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D05_06-Pad2)">
+      <node ref="D05_06" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW05_06" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D06_00-Pad2)">
+      <node ref="D06_00" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW06_00" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D06_01-Pad2)">
+      <node ref="D06_01" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW06_01" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D06_02-Pad2)">
+      <node ref="D06_02" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW06_02" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D06_03-Pad2)">
+      <node ref="D06_03" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW06_03" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D06_04-Pad2)">
+      <node ref="D06_04" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW06_04" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D06_05-Pad2)">
+      <node ref="D06_05" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW06_05" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D06_06-Pad2)">
+      <node ref="D06_06" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW06_06" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D07_00-Pad2)">
+      <node ref="D07_00" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWET_AN00" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWET_IS00" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D07_01-Pad2)">
+      <node ref="D07_01" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW07_01" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D07_02-Pad2)">
+      <node ref="D07_02" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW07_02" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D07_03-Pad2)">
+      <node ref="D07_03" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW07_03" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D07_04-Pad2)">
+      <node ref="D07_04" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW07_04" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D07_05-Pad2)">
+      <node ref="D07_05" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW07_05" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D07_06-Pad2)">
+      <node ref="D07_06" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW07_06" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D08_00-Pad2)">
+      <node ref="D08_00" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW08_00" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(D08_01-Pad2)">
+      <node ref="D08_01" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWRS_L01" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWRS_S01" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(D08_02-Pad2)">
+      <node ref="D08_02" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW08_02" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D08_03-Pad2)">
+      <node ref="D08_03" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW08_03" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(D08_04-Pad2)">
+      <node ref="D08_04" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW08_04" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D08_05-Pad2)">
+      <node ref="D08_05" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW08_05" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(D08_06-Pad2)">
+      <node ref="D08_06" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW08_06" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(D09_00-Pad2)">
+      <node ref="D09_00" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW09_00" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(D09_01-Pad2)">
+      <node ref="D09_01" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW09_01" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(D09_02-Pad2)">
+      <node ref="D09_02" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW09_02" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(D09_03-Pad2)">
+      <node ref="D09_03" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW09_03" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(D09_04-Pad2)">
+      <node ref="D09_04" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW09_04" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(D09_05-Pad2)">
+      <node ref="D09_05" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW09_05" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(D09_06-Pad2)">
+      <node ref="D09_06" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW09_06" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(J0-PadA5)">
+      <node ref="J0" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(J0-PadB5)">
+      <node ref="J0" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(JP0-Pad2)">
+      <node ref="JP0" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(LED0-Pad2)">
+      <node ref="LED0" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED1" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="89" name="Net-(LED1-Pad2)">
+      <node ref="LED1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED2" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="90" name="Net-(LED2-Pad2)">
+      <node ref="LED2" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED3" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="91" name="Net-(LED3-Pad2)">
+      <node ref="LED3" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED4" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="92" name="Net-(LED4-Pad2)">
+      <node ref="LED4" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED5" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="93" name="Net-(LED5-Pad2)">
+      <node ref="LED5" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED6" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="94" name="Net-(LED6-Pad2)">
+      <node ref="LED6" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED7" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="95" name="Net-(LED7-Pad2)">
+      <node ref="LED7" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED8" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="96" name="Net-(LED8-Pad2)">
+      <node ref="LED8" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED9" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="97" name="Net-(R0-Pad1)">
+      <node ref="R0" pin="1" pintype="passive"/>
+      <node ref="U0" pin="4" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="98" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U0" pin="3" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="99" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U0" pin="33" pinfunction="~{HWB}/PE2" pintype="bidirectional"/>
+    </net>
+    <net code="100" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="NRESET" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="LED_P" pintype="passive"/>
+    </net>
+    <net code="102" name="RESET">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="RESET_SW0" pin="A" pintype="passive"/>
+      <node ref="RESET_SW0" pin="B" pintype="passive"/>
+      <node ref="U0" pin="13" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="103" name="RE_A">
+      <node ref="RE0" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="U0" pin="12" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="104" name="RE_B">
+      <node ref="RE0" pin="B" pinfunction="B" pintype="passive"/>
+      <node ref="U0" pin="1" pinfunction="PE6" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="SCLK">
+      <node ref="U1" pin="10" pinfunction="SCLK" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="B" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="SCLK-H">
+      <node ref="U0" pin="9" pinfunction="PB1" pintype="bidirectional"/>
+      <node ref="U4" pin="3" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="107" name="SS">
+      <node ref="U1" pin="13" pinfunction="NCS" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="B" pintype="bidirectional"/>
+    </net>
+    <net code="108" name="SS-H">
+      <node ref="U0" pin="8" pinfunction="PB0" pintype="bidirectional"/>
+      <node ref="U5" pin="3" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U7" pin="5" pinfunction="DIR" pintype="input"/>
+    </net>
+    <net code="109" name="VCC">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J0" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J0" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J0" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J0" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="LED0" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED7" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED8" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED9" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U0" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U0" pin="2" pinfunction="UVCC" pintype="power_in"/>
+      <node ref="U0" pin="24" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U0" pin="34" pinfunction="VCC" pintype="passive"/>
+      <node ref="U0" pin="44" pinfunction="AVCC" pintype="passive"/>
+      <node ref="U0" pin="7" pinfunction="VBUS" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="IN" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="VCC(A)" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="DIR" pintype="input"/>
+      <node ref="U4" pin="1" pinfunction="VCC(A)" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="DIR" pintype="input"/>
+      <node ref="U5" pin="1" pinfunction="VCC(A)" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="DIR" pintype="input"/>
+      <node ref="U6" pin="1" pinfunction="VCC(A)" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="VCC(A)" pintype="power_in"/>
+    </net>
+    <net code="110" name="VDD">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VDD" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VDDIO" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="OUT" pintype="power_in"/>
+      <node ref="U3" pin="6" pinfunction="VCC(B)" pintype="power_in"/>
+      <node ref="U4" pin="6" pinfunction="VCC(B)" pintype="power_in"/>
+      <node ref="U5" pin="6" pinfunction="VCC(B)" pintype="power_in"/>
+      <node ref="U6" pin="6" pinfunction="VCC(B)" pintype="power_in"/>
+      <node ref="U7" pin="6" pinfunction="VCC(B)" pintype="power_in"/>
+    </net>
+    <net code="111" name="col00">
+      <node ref="SW00_00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW01_00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW03_00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW04_00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW06_00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW08_00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW09_00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWBS_L00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWBS_S00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWCL_N00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWCL_S00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWET_AN00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWET_IS00" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U0" pin="41" pinfunction="PF0" pintype="bidirectional"/>
+    </net>
+    <net code="112" name="col01">
+      <node ref="SW00_01" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW01_01" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW02_01" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW04_01" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW05_01" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW06_01" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW07_01" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW09_01" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWLS_L01" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWLS_S01" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWRS_L01" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWRS_S01" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U0" pin="40" pinfunction="PF1" pintype="bidirectional"/>
+    </net>
+    <net code="113" name="col02">
+      <node ref="SW00_02" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW01_02" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW02_02" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW03_02" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW04_02" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW05_02" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW06_02" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW07_02" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW08_02" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW09_02" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U0" pin="39" pinfunction="PF4" pintype="bidirectional"/>
+    </net>
+    <net code="114" name="col03">
+      <node ref="SW00_03" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW01_03" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW02_03" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW03_03" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW04_03" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW05_03" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW06_03" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW07_03" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW08_03" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW09_03" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U0" pin="38" pinfunction="PF5" pintype="bidirectional"/>
+    </net>
+    <net code="115" name="col04">
+      <node ref="SW00_04" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW01_04" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW02_04" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW03_04" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW05_04" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW06_04" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW07_04" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW08_04" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW09_04" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWSP_L04" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWSP_S04" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U0" pin="37" pinfunction="PF6" pintype="bidirectional"/>
+    </net>
+    <net code="116" name="col05">
+      <node ref="SW00_05" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW01_05" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW02_05" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW03_05" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW04_05" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW05_05" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW06_05" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW07_05" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW08_05" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW09_05" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U0" pin="36" pinfunction="PF7" pintype="bidirectional"/>
+    </net>
+    <net code="117" name="col06">
+      <node ref="SW00_06" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW01_06" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW02_06" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW03_06" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW04_06" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW05_06" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW06_06" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW07_06" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW08_06" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW09_06" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U0" pin="32" pinfunction="PC7" pintype="bidirectional"/>
+    </net>
+    <net code="118" name="row00">
+      <node ref="D00_00" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D00_01" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D00_02" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D00_03" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D00_04" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D00_05" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D00_06" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="30" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="119" name="row01">
+      <node ref="D01_00" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D01_01" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D01_02" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D01_03" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D01_04" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D01_05" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D01_06" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="28" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="120" name="row02">
+      <node ref="D02_00" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D02_01" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D02_02" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D02_03" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D02_04" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D02_05" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D02_06" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="26" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="121" name="row03">
+      <node ref="D03_00" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D03_01" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D03_02" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D03_03" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D03_04" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D03_05" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D03_06" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="22" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="122" name="row04">
+      <node ref="D04_00" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D04_01" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D04_02" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D04_03" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D04_04" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D04_05" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D04_06" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="19" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="123" name="row05">
+      <node ref="D05_00" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D05_01" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D05_02" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D05_03" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D05_04" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D05_05" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D05_06" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="31" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="124" name="row06">
+      <node ref="D06_00" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D06_01" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D06_02" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D06_03" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D06_04" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D06_05" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D06_06" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="29" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="125" name="row07">
+      <node ref="D07_00" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D07_01" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D07_02" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D07_03" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D07_04" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D07_05" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D07_06" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="27" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="126" name="row08">
+      <node ref="D08_00" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D08_01" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D08_02" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D08_03" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D08_04" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D08_05" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D08_06" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="25" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="127" name="row09">
+      <node ref="D09_00" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D09_01" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D09_02" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D09_03" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D09_04" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D09_05" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D09_06" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="18" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="128" name="unconnected-(J0-PadA8)">
+      <node ref="J0" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(J0-PadB8)">
+      <node ref="J0" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(LED9-Pad2)">
+      <node ref="LED9" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(U0-Pad42)">
+      <node ref="U0" pin="42" pinfunction="AREF" pintype="passive+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="NC_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="NC_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="NC_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(U1-Pad14)">
+      <node ref="U1" pin="14" pinfunction="NC_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="NC_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="137" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
