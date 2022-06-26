@@ -48,8 +48,17 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        "silk_over_copper|452025000|137963072|17bb751a-b201-40e3-b3e4-603913adf40c|5f1289f9-a7eb-4b99-9406-97aa47f4683c",
+        "silk_over_copper|461425000|137963072|17bb751a-b201-40e3-b3e4-603913adf40c|bd27fc5a-2b11-4bba-9f3d-41d6eb086089"
+      ],
       "meta": {
         "version": 2
       },
@@ -112,8 +121,17 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.375,
+        0.5
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },

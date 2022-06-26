@@ -7,4 +7,5 @@
   (lib (name "TLV70019DDCR")(type "KiCad")(uri "${KIPRJMOD}/lib/IC_Texas Instruments_TLV70019DDCR/eec.pretty")(options "")(descr ""))
   (lib (name "PMW3360DM-T2QU")(type "KiCad")(uri "${KIPRJMOD}/lib/LIB_PMW3360DM-T2QU/PMW3360DM-T2QU/KiCad")(options "")(descr ""))
   (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/lib/TS-1187A-B-A-B")(options "")(descr ""))
+  (lib (name "dynamis")(type "KiCad")(uri "${KIPRJMOD}/lib/dynamis.pretty")(options "")(descr ""))
 )
