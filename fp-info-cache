@@ -1,4 +1,4 @@
-20570208450242671
+20573490300583031
 74LVC1T45GW
 Nexperia-SOT363-11_2018-0-IPC_A
 
@@ -81374,6 +81374,13 @@ Texas_Instruments-TLV70019DDCR-Level_C
 0
 5
 5
+TS-1187A-B-A-B
+SW_TS-1187A-B-A-B
+
+
+0
+4
+4
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -87016,6 +87023,13 @@ WS2812B_data-bridgeable
 0
 12
 4
+dynamis
+logo
+
+
+0
+0
+0
 random-keyboard-parts
 D_SOD-123-Pretty
 SOD-123
