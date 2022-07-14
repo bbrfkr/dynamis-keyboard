@@ -5,7 +5,7 @@
 
 ## concept
 - upgradable
-    - This keyboard can be updated from sandwitch mounted case to gasket mounted case.
+    - This keyboard can be upgraded from sandwitch mounted case to gasket mounted case.
 - only this to input
     - This keyboard is integrated with trackball, so you need only this to input!
 - compact and major
