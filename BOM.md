@@ -8,7 +8,7 @@
 |capacitor 1 uF|3|smd. package 3216|
 |capacitor 4.7 uF|1|smd. package 3216|
 |capacitor 10 uF|1|smd. package 3216|
-|crystal|1|e.g. [FA238(16Mhz)](https://pdf1.alldatasheet.jp/datasheet-pdf/view/1118581/EPSON/FA-238.html)|
+|crystal|1|e.g. [FA238(16Mhz)](https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-238)|
 |diode|68|smd. package 3216|
 |low-dropout regulator|1|[TLV70019DDCR](https://www.ti.com/lit/ds/symlink/tlv700.pdf) is supported|
 |microchip|1|[atmega32u4-au](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf) is supported|
