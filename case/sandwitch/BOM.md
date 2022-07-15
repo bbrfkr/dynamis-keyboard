@@ -10,7 +10,7 @@
 |M2 heat insert|4|The length is 3mm|
 |M2 pan head skrew 4mm|32|-|
 |M2 spacer 8.5mm|14|-|
-|plate mounted stabilizer|(qty you need)|MX compatible one is supported|
+|pcb mounted stabilizer|(qty you need)|MX compatible one is supported|
 |rubber foot|4|-|
 |switch|(qty you need)|MX compatible one is supported|
 |trackball 34mm|1|e.g. [https://perixx.com/collections/accessories/products/18047](https://perixx.com/collections/accessories/products/18047)|

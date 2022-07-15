@@ -15,8 +15,8 @@
 |M3 heat insert|10(14 If you need a brass weight)|The length is 3mm|
 |M2 pan head skrew 4mm|4|-|
 |M3 pan head skrew 16mm|10|-|
+|pcb mounted stabilizer|(qty you need)|MX compatible one is supported|
 |plate form|1|Option. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/add-docs-logos/case/plate-foam.svg)|
-|plate mounted stabilizer|(qty you need)|MX compatible one is supported|
 |rubber foot|4|-|
 |switch|(qty you need)|MX compatible one is supported|
 |trackball 34mm|1|e.g. [https://perixx.com/collections/accessories/products/18047](https://perixx.com/collections/accessories/products/18047)|
