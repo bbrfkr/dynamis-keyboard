@@ -1,1 +1,2 @@
-# build guide for 3d acrylic case
+# build guide for acrylic case
+1. Construct trackball cup and install to pcba by following [build guide](https://github.com/bbrfkr/dynamis-keyboard/blob/master/trackball-cup/BUILD.md).
