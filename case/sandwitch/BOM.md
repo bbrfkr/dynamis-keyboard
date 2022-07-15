@@ -8,7 +8,7 @@
 |fr4 bottom case|1|Order by the following [gerbers](https://github.com/bbrfkr/dynamis-keyboard/tree/master/case/sandwitch/gerbers)|
 |keycap|(qty you need)|MX compatible one is supported|
 |M2 heat insert|4|The length is 3mm|
-|M2 pan head skrew 4mm|32|-|
+|M2 pan head screw 4mm|32|-|
 |M2 spacer 8.5mm|14|-|
 |pcb mounted stabilizer|(qty you need)|MX compatible one is supported|
 |rubber foot|4|-|

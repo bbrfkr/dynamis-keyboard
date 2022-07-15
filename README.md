@@ -24,7 +24,11 @@
 5. Collect parts and assembly by following the each README.md of selected case option.
 
 ## flash firmware
-"dynamis" supports [qmk](https://github.com/qmk/qmk_firmware/tree/master/keyboards/bbrfkr/dynamis).
+"dynamis" supports [qmk](https://github.com/qmk/qmk_firmware/tree/master/keyboards/bbrfkr/dynamis). Therefore, you can flash firmware by using [qmk toolbox](https://github.com/qmk/qmk_toolbox).
+
+You can download the firmware for this keyboard from [here](https://www.caniusevia.com/docs/download_firmware).
 
 ## remap keymap
-"dynamis" supports [via](url) and [remap](https://remap-keys.app/catalog/stOy3bAlBUlsGzHCaDIQ).
+"dynamis" supports [via](https://www.caniusevia.com/). Therefore, it is recommended that you remap keymap through via.
+
+Moreover, "dynamis" is registered in [remap](https://remap-keys.app/catalog/stOy3bAlBUlsGzHCaDIQ). From this, you can remap keymap through web browser.
