@@ -6,7 +6,7 @@
 ## concept
 - upgradable
     - This keyboard can be upgraded from sandwitch mounted case to gasket mounted case.
-- only this to input
+- to input only with this 
     - This keyboard is integrated with 34mm trackball, so you need only this to input!
 - compact and major
     - 65% layout that is compact and major have been adopted.
