@@ -24,7 +24,7 @@
 5. Collect parts and assembly by following the each README.md of selected case option.
 
 ## flash firmware
-"dynamis" supports [qmk](https://github.com/qmk/qmk_firmware/tree/master/keyboards/bbrfkr/dynamis)
+"dynamis" supports [qmk](https://github.com/qmk/qmk_firmware/tree/master/keyboards/bbrfkr/dynamis).
 
 ## remap keymap
 "dynamis" supports [via](url) and [remap](https://remap-keys.app/catalog/stOy3bAlBUlsGzHCaDIQ).
