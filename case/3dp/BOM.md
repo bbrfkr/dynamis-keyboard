@@ -1,4 +1,4 @@
-# parts list for 3d print case
+# parts list for 3d printed case
 
 |name|qty|description|
 |---|---|---|
