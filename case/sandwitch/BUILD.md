@@ -10,5 +10,5 @@
 4. Put the plate to the bottom case by inserting spacers to the holes of pcba.
     ![sandwitch-04](url)
 
-5. Screwed the plate and spacers with screws.
+5. Screw the plate and spacers with screws.
     ![sandwitch-05](url)
