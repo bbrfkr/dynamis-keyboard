@@ -25,7 +25,7 @@
 1. (Option) Put case foam on bottom case.
     ![3d-printed-08](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/.jpg?raw=true)
 
-1. Put top case to bottom case.
+1. Put top case on bottom case.
     ![3d-printed-09](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/.jpg?raw=true)
 
 1. Screw bottom case to top case with M3 16mm screws through the holes of bottom case.
