@@ -1,7 +1,7 @@
 # dynamis
 "dynamis" is the open-source 65% keyboard integrated with trackball.
 
-![dynamis](https://i.imgur.com/yWx2MzRh.jpeg)
+![dynamis](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-dynamis.jpg?raw=true)
 
 ## concept
 - upgradable
