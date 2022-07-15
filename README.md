@@ -1,5 +1,5 @@
 # dynamis
-"dynamis" is the 65% keyboard integrated with trackball.
+"dynamis" is the open-source 65% keyboard integrated with trackball.
 
 ![dynamis](https://i.imgur.com/yWx2MzRh.jpeg)
 
