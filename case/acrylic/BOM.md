@@ -8,8 +8,8 @@
 |acryl cut for gasket-middle-with-usb-hole.svg(5mm)|1|5mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/master/case/acrylic/gasket-middle-with-usb-hole.svg)|
 |acryl cut for gasket-middle-with-usb-hole.svg(3mm)|1|3mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/master/case/acrylic/gasket-middle-with-usb-hole.svg)|
 |acryl cut for middle.svg|2|2mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/master/case/acrylic/middle.svg)|
-|acryl cut for gasket-middle.svg||2mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/master/case/acrylic/gasket-middle.svg)|
-|acryl cut for top.svg||5mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/master/case/acrylic/top.svg)|
+|acryl cut for gasket-middle.svg|1|2mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/master/case/acrylic/gasket-middle.svg)|
+|acryl cut for top.svg|1|5mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/master/case/acrylic/top.svg)|
 |ceramic ball 3mm|3|For support ball of track ball cup|
 |case form|1|Option. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/master/case/case-foam.svg)|
 |dynamis pcba|1|-|
