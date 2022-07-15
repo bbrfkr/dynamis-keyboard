@@ -12,3 +12,6 @@
 
 5. Screw the plate and spacers with screws.
     ![sandwitch-05](url)
+
+6. Install keycaps!
+    ![sandwitch-06](url)
