@@ -57800,7 +57800,7 @@ Omega Onion module
 32
 Module
 Onion_Omega2S
-https://github.com/OnionIoT/Omega2/raw/master/Documents/Omega2S%20Datasheet.pdf
+https://github.com/OnionIoT/Omega2/raw/main/Documents/Omega2S%20Datasheet.pdf
 onion omega module
 0
 89
@@ -61545,7 +61545,7 @@ BGA 144 0.8
 144
 Package_BGA
 LFBGA-169_16x12mm_Layout28x14_P0.5mm_Ball0.3_Pad0.3mm_NSMD
-https://4donline.ihs.com/images/VipMasterIC/IC/SGST/SGSTS20279/SGSTS20279-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+https://4donline.ihs.com/images/VipmainIC/IC/SGST/SGSTS20279/SGSTS20279-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
 eMMC Flash LFBGA169
 0
 169
@@ -76539,14 +76539,14 @@ ble module st bluetooth
 11
 RF_Module
 TD1205
-https://github.com/Telecom-Design/Documentation_TD_RF_Module/blob/master/TD1205%20Datasheet.pdf
+https://github.com/Telecom-Design/Documentation_TD_RF_Module/blob/main/TD1205%20Datasheet.pdf
 SIGFOX Module
 0
 9
 9
 RF_Module
 TD1208
-https://github.com/Telecom-Design/Documentation_TD_RF_Module/blob/master/TD1208%20Datasheet.pdf
+https://github.com/Telecom-Design/Documentation_TD_RF_Module/blob/main/TD1208%20Datasheet.pdf
 SIGFOX Module
 0
 25

@@ -1,5 +1,5 @@
 # build guide for sandwitch case
-1. Construct trackball cup and install to pcba by following [build guide](https://github.com/bbrfkr/dynamis-keyboard/blob/master/trackball-cup/BUILD.md).
+1. Construct trackball cup and install to pcba by following [build guide](https://github.com/bbrfkr/dynamis-keyboard/blob/main/trackball-cup/BUILD.md).
 
 1. Install M2 8.5mm spacers to the fr4 bottom case with M2 4mm screws.
     ![sandwitch-01](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-01.jpg?raw=true)

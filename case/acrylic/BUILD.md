@@ -1,5 +1,5 @@
 # build guide for acrylic case
-1. Construct trackball cup and install to pcba by following [build guide](https://github.com/bbrfkr/dynamis-keyboard/blob/master/trackball-cup/BUILD.md).
+1. Construct trackball cup and install to pcba by following [build guide](https://github.com/bbrfkr/dynamis-keyboard/blob/main/trackball-cup/BUILD.md).
 
 1. Screw M2 22mm spacers to the "feet-bottom" acryl cut with M2 8mm screws.
     ![acrylic-01](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-01.jpg?raw=true)

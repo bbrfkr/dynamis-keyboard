@@ -1,5 +1,5 @@
 # build guide for 3d printed case
-1. Construct trackball cup and install to pcba by following [build guide](https://github.com/bbrfkr/dynamis-keyboard/blob/master/trackball-cup/BUILD.md).
+1. Construct trackball cup and install to pcba by following [build guide](https://github.com/bbrfkr/dynamis-keyboard/blob/main/trackball-cup/BUILD.md).
 
 1. Install 10 heat inserts to top case.
     ![3d-printed-01]()

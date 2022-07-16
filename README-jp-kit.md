@@ -80,13 +80,13 @@
     ![sandwitch-06](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-06.jpg?raw=true)
 
 ## ファームウェア
-[こちら](https://github.com/qmk/qmk_firmware/blob/master/README-jp-firmware.md)から、ファームウェアの書き込みとキーマップの書き換えを実施してください。
+[こちら](https://github.com/qmk/qmk_firmware/blob/main/README-jp-firmware.md)から、ファームウェアの書き込みとキーマップの書き換えを実施してください。
 
 ## ケースのアップグレードについて
 「dynamis」は同一PCBA・FR4プレートで、以下の複数のケースをサポートしています。
 
-- [サンドイッチマウントケース](https://github.com/bbrfkr/dynamis-keyboard/tree/master/case/sandwitch)
-- [アクリルガスケットマウントケース](https://github.com/bbrfkr/dynamis-keyboard/tree/master/case/acrylic)
-- [3Dプリントガスケットマウントケース](https://github.com/bbrfkr/dynamis-keyboard/tree/master/case/3dp)
+- [サンドイッチマウントケース](https://github.com/bbrfkr/dynamis-keyboard/tree/main/case/sandwitch)
+- [アクリルガスケットマウントケース](https://github.com/bbrfkr/dynamis-keyboard/tree/main/case/acrylic)
+- [3Dプリントガスケットマウントケース](https://github.com/bbrfkr/dynamis-keyboard/tree/main/case/3dp)
 
 各リンクからご自身でパーツ調達・組み立てを行っていただくこともできますし、パーツ調達が難しい方に対し後日、受注生産という形で各パーツの販売を検討しております。ご期待ください。
