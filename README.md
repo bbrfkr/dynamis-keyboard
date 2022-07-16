@@ -26,7 +26,7 @@
 5. Collect parts and assembly by following the each README.md of selected case option.
 
 ## flash firmware
-"dynamis" supports [qmk](https://github.com/qmk/qmk_firmware/tree/main/keyboards/bbrfkr/dynamis). Therefore, you can flash firmware by using [qmk toolbox](https://github.com/qmk/qmk_toolbox).
+"dynamis" supports [qmk](https://github.com/qmk/qmk_firmware/tree/master/keyboards/bbrfkr/dynamis). Therefore, you can flash firmware by using [qmk toolbox](https://github.com/qmk/qmk_toolbox).
 
 You can download the firmware for this keyboard from [here](https://www.caniusevia.com/docs/download_firmware).
 

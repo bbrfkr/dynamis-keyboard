@@ -80,7 +80,7 @@
     ![sandwitch-06](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-06.jpg?raw=true)
 
 ## ファームウェア
-[こちら](https://github.com/qmk/qmk_firmware/blob/main/README-jp-firmware.md)から、ファームウェアの書き込みとキーマップの書き換えを実施してください。
+[こちら](https://github.com/bbrfkr/dynamis-keyboard/blob/main/README-jp-firmware.md)から、ファームウェアの書き込みとキーマップの書き換えを実施してください。
 
 ## ケースのアップグレードについて
 「dynamis」は同一PCBA・FR4プレートで、以下の複数のケースをサポートしています。
