@@ -1,7 +1,7 @@
 # dynamis
 "dynamis" is the open-source 65% keyboard integrated with trackball.
 
- (サンドイッチマウントキットを購入された方向けのREADMEは[こちら](https://github.com/bbrfkr/dynamis-keyboard/blob/main/README-ja-kit.md))
+ (サンドイッチマウントキットを購入された方向けのREADMEは[こちら](https://github.com/bbrfkr/dynamis-keyboard/blob/main/README-jp-kit.md))
 
 ![dynamis](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-dynamis.jpg?raw=true)
 
