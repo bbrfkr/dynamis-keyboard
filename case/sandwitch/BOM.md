@@ -5,7 +5,7 @@
 |ceramic ball 3mm|3|For support ball of track ball cup|
 |dynamis pcba|1|-|
 |fr4 plate|1|-|
-|fr4 bottom case|1|Order by the following [gerbers](https://github.com/bbrfkr/dynamis-keyboard/tree/master/case/sandwitch/gerbers)|
+|fr4 bottom case|1|Order by the following [gerbers](https://github.com/bbrfkr/dynamis-keyboard/tree/main/case/sandwitch/gerbers)|
 |keycap|(qty you need)|MX compatible one is supported|
 |M2 heat insert|4|The length is 3mm|
 |M2 pan head screw 4mm|32|-|
