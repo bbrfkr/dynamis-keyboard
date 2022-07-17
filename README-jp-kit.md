@@ -62,14 +62,14 @@
     ![trackball-cup-03](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/trackball-cup-03.jpg?raw=true)
 
 ### ボトムケースの組み立て
-1. FR4ボトムケースの14個あるネジ穴の上に、M2 8.5mmスペーサを置きます。その後、裏側からM2 4mmなべネジでねじ止めします。
+1. FR4ボトムケースの14個あるネジ穴の上に、M2 8.5mmスペーサを置きます。その後、裏側からM2 4mmなべネジでねじ止めします。このとき、FR4ボトムケースのロゴがついている面を裏面にします。
     ![sandwitch-01](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-01.jpg?raw=true)
 
 ### トップケースの組み立て
 1. スタビライザをPCBAに取り付けます。
     ![sandwitch-02](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-02.jpg?raw=true)
 
-1. FR4プレートをPCBAの上に置き、FR4プレートを通すよう、PCBAにキースイッチを差し込みます。
+1. FR4プレートをPCBAの上に置き、FR4プレートを通すよう、PCBAにキースイッチを差し込みます。このとき、FR4プレートのロゴがついている面を上面にします。
     ![sandwitch-03](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-03.jpg?raw=true)
 
 ### トップケースとボトムケースの結合
