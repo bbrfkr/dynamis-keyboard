@@ -83,8 +83,8 @@
 1. キーキャップとゴム足を取り付け、トラックボールを乗せたら完成です！
     ![sandwitch-05](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-05.jpg?raw=true)
 
-## ファームウェア
-[こちら](https://github.com/bbrfkr/dynamis-keyboard/blob/main/README-jp-firmware.md)から、ファームウェアの書き込みとキーマップの書き換えを実施してください。
+## キーマップの書き換えとファームウェアについて
+[こちら](https://github.com/bbrfkr/dynamis-keyboard/blob/main/README-jp-firmware.md)から、キーマップの書き換えやファームウェアの書き込みを実施してください。
 
 ## ケースのアップグレードについて
 「dynamis」は同一PCBA・FR4プレートで、以下の複数のケースをサポートしています。
