@@ -10,11 +10,8 @@
 1. Install switches to the pcba through the fr4 plate.
     ![sandwitch-03](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-03.jpg?raw=true)
 
-1. Put the plate to the bottom case by inserting spacers to the holes of pcba.
+1. Put the plate to the bottom case by inserting spacers to the holes of pcba. Then, screw the plate and spacers with screws.
     ![sandwitch-04](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-04.jpg?raw=true)
 
-1. Screw the plate and spacers with screws.
+1. Install keycaps, rubber feet and trackball!
     ![sandwitch-05](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-05.jpg?raw=true)
-
-1. Install keycaps!
-    ![sandwitch-06](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-06.jpg?raw=true)

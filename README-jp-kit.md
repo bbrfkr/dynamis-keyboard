@@ -31,6 +31,7 @@
 |ゴム足|4|
 |34mmトラックボール|1|
 |トラックボールカップ|1|
+|センサミラー|1|
 
 また、以下の工具・材料が別途必要なため、調達してください。
 
@@ -47,6 +48,11 @@
 |キースイッチプラー|1|-|
 
 ## ビルド方法
+### ロータリエンコーダのはんだ付け
+1. ロータリエンコーダを半完成品PCBAにはんだ付けします。
+    ![rotary-encoder-01](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/rotary-encoder-01.jpg?raw=true)
+    ![rotary-encoder-01](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/rotary-encoder-02.jpg?raw=true)
+
 ### トラックボールカップの作成と取り付け
 1. M2ネジ付きヒートインサートをトラックボールカップの裏側の4箇所の穴の上に乗せます。その後一つずつ、はんだごてでヒートインサートを圧入します。
     ![trackball-cup-01](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/trackball-cup-01.jpg?raw=true)
@@ -54,33 +60,31 @@
 2. トラックボールカップ内部のくぼみに瞬間接着剤をたらし、3mm セラミックボール3つをそれぞれ接着します。
     ![trackball-cup-02](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/trackball-cup-02.jpg?raw=true)
 
-3. PCBA表側(部品が実装されていない面)のトラックボールセンサ上にトラックボールカップを乗せます。PCBA裏側からM2 4mmなべネジでトラックボールカップをPCBAにねじ止めします。
+3. PCBA表側(部品が実装されていない面)のトラックボールセンサ上にトラックボールカップとセンサミラーを乗せます。PCBA裏側からM2 4mmなべネジでトラックボールカップをPCBAにねじ止めします。
     ![trackball-cup-03](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/trackball-cup-03.jpg?raw=true)
+    ![trackball-cup-04](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/trackball-cup-04.jpg?raw=true)
 
 ### ボトムケースの組み立て
-1. FR4ボトムケースの14個あるネジ穴の上に、M2 8.5mmスペーサを置きます。その後、裏側からM2 4mmなべネジでねじ止めします。
+1. FR4ボトムケースの14個あるネジ穴の上に、M2 8.5mmスペーサを置きます。その後、裏側からM2 4mmなべネジでねじ止めします。このとき、FR4ボトムケースのロゴがついている面を裏面にします。
     ![sandwitch-01](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-01.jpg?raw=true)
 
 ### トップケースの組み立て
 1. スタビライザをPCBAに取り付けます。
     ![sandwitch-02](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-02.jpg?raw=true)
 
-1. FR4プレートをPCBAの上に置き、FR4プレートを通すよう、PCBAにキースイッチを差し込みます。
+1. FR4プレートをPCBAの上に置き、FR4プレートを通すよう、PCBAにキースイッチを差し込みます。このとき、FR4プレートのロゴがついている面を上面にします。
     ![sandwitch-03](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-03.jpg?raw=true)
 
 ### トップケースとボトムケースの結合
-1. PCBAに開けられた穴を通るよう、ボトムケースのスペーサー上にトップケースを乗せます。
+1. PCBAに開けられた穴を通るよう、ボトムケースのスペーサー上にトップケースを乗せ、M2 4mmなべネジでねじ止めします。
     ![sandwitch-04](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-04.jpg?raw=true)
 
-1. FR4プレートに開けられたネジ穴から、FR4プレートとスペーサーとをM2 4mmなべネジでねじ止めします。
+### キーキャップ・ゴム足・トラックボールの取り付け
+1. キーキャップとゴム足を取り付け、トラックボールを乗せたら完成です！
     ![sandwitch-05](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-05.jpg?raw=true)
 
-### キーキャップの取り付け
-1. キーキャップを各キースイッチに取り付けて完成です！
-    ![sandwitch-06](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-06.jpg?raw=true)
-
-## ファームウェア
-[こちら](https://github.com/bbrfkr/dynamis-keyboard/blob/main/README-jp-firmware.md)から、ファームウェアの書き込みとキーマップの書き換えを実施してください。
+## キーマップの書き換えとファームウェアについて
+[こちら](https://github.com/bbrfkr/dynamis-keyboard/blob/main/README-jp-firmware.md)から、キーマップの書き換えやファームウェアの書き込みを実施してください。
 
 ## ケースのアップグレードについて
 「dynamis」は同一PCBA・FR4プレートで、以下の複数のケースをサポートしています。

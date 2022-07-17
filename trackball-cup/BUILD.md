@@ -7,3 +7,4 @@
 
 3. Install trackball cup to pcba with M2 4mm screws. Here, install trackball sensor mirror, too.
     ![trackball-cup-03](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/trackball-cup-03.jpg?raw=true)
+    ![trackball-cup-04](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/trackball-cup-04.jpg?raw=true)

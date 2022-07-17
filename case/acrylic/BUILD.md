@@ -34,17 +34,17 @@
 1. (Option) Put case foam on "bottom" acryl cut.
     ![acrylic-11](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-11.jpg?raw=true)
 
-1. Affix gaskets to "gasket-middle" acryl cut.
+1. Put plate with pcba on gaskets.
     ![acrylic-12](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-12.jpg?raw=true)
 
-1. Insert the "gasket-middle" acryl cuts to M2 spacers.
+1. Affix gaskets to "gasket-middle" acryl cut.
     ![acrylic-13](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-13.jpg?raw=true)
 
-1. Screw "top" acryl cut to M2 spacers with M2 8mm screws.
+1. Insert the "gasket-middle" acryl cuts to M2 spacers.
     ![acrylic-14](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-14.jpg?raw=true)
 
-1. Affix rubber feet to "bottom" acryl cut.
+1. Screw "top" acryl cut to M2 spacers with M2 8mm screws.
     ![acrylic-15](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-15.jpg?raw=true)
 
-1. Install keycaps!
+1. Install keycaps, rubber feet and trackball!
     ![acrylic-16](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-16.jpg?raw=true)
