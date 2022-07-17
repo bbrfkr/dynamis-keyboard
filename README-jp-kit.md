@@ -47,6 +47,10 @@
 |キースイッチプラー|1|-|
 
 ## ビルド方法
+### ロータリエンコーダのはんだ付け
+1. ロータリエンコーダを半完成品PCBAにはんだ付けします。
+    ![rotary-encoder-01](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/rotary-encoder-01.jpg?raw=true)
+
 ### トラックボールカップの作成と取り付け
 1. M2ネジ付きヒートインサートをトラックボールカップの裏側の4箇所の穴の上に乗せます。その後一つずつ、はんだごてでヒートインサートを圧入します。
     ![trackball-cup-01](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/trackball-cup-01.jpg?raw=true)
