@@ -79,8 +79,8 @@
 1. PCBAに開けられた穴を通るよう、ボトムケースのスペーサー上にトップケースを乗せ、M2 4mmなべネジでねじ止めします。
     ![sandwitch-04](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-04.jpg?raw=true)
 
-### キーキャップの取り付け
-1. キーキャップを各キースイッチに取り付けて完成です！
+### キーキャップ・トラックボールの取り付け
+1. キーキャップを各キースイッチに取り付け、トラックボールを乗せたら完成です！
     ![sandwitch-05](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/sandwitch-05.jpg?raw=true)
 
 ## ファームウェア
