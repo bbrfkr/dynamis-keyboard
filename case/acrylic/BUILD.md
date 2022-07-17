@@ -43,8 +43,5 @@
 1. Screw "top" acryl cut to M2 spacers with M2 8mm screws.
     ![acrylic-14](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-14.jpg?raw=true)
 
-1. Affix rubber feet to "bottom" acryl cut.
+1. Install keycaps, rubber feet and trackball!
     ![acrylic-15](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-15.jpg?raw=true)
-
-1. Install keycaps!
-    ![acrylic-16](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-16.jpg?raw=true)
