@@ -4,7 +4,7 @@
 |---|---|---|
 |3d printed bottom case|1|3d printed by [this stl](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/3dp/gasket-mount-case-bottom-case.stl)|
 |3d printed top case|1|3d printed by [this stl](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/3dp/gasket-mount-case-top-case.stl)|
-|brass weight|1|Option. Cnc process with [this stl](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/3dp/gasket-mount-case-weight.stl)|
+|brass weight|1|Option. Cnc process etc with [this stl](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/3dp/gasket-mount-case-weight.stl)|
 |ceramic ball 3mm|3|For support ball of track ball cup|
 |case foam|1|Option. The thickness is 3.5mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/case-foam.svg)|
 |dynamis pcba|1|-|
