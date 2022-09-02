@@ -1,0 +1,16 @@
+name: build-firmware
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
+      - run: pip install qmk
+      - run: qmk setup -y
+      - run: export FIRMWARE_PATH=~/qmk_firmware/keyboards/bbrfkr/dynamis
+      - run: rm -rf $FIRMWARE_PATH
+      - run: cp -r firmware/qmk/dynamis $FIRMWARE_PATH
+      - run: cd ~ && qmk compile -kb bbrfkr/dynamis -km via && cd -
