@@ -4,38 +4,39 @@ on:
   workflow_call:
 
 jobs:
+  build:
+    uses: ./.github/workflows/build.yml
+  
   release:
     runs-on: ubuntu-latest
-    steps:
-      - uses: ./.github/workflows/build.yml
-      - name: gather artifacts
-        run: >
-          mkdir artifacts &&
-          cp ../qmk_firmware/.build/bbrfkr_dynamis_via.hex firmware/via/dynamis.json artifacts
-      - name: create release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
-      - name: upload qmk firmware
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }} 
-          asset_path: ./artifacts/bbrfkr_dynamis_via.hex
-          asset_name: bbrfkr_dynamis_via.hex
-          asset_content_type: text/plain
-      - name: upload via json
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }} 
-          asset_path: ./artifacts/dynamis.json
-          asset_name: dynamis.json
-          asset_content_type: application/json
+    - uses: actions/download-artifact@v3
+      with:
+        name: firmware
+        path: ./artifacts
+    - name: create release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: Release ${{ github.ref }}
+        draft: false
+        prerelease: false
+    - name: upload qmk firmware
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }} 
+        asset_path: ./artifacts/bbrfkr_dynamis_via.hex
+        asset_name: bbrfkr_dynamis_via.hex
+        asset_content_type: text/plain
+    - name: upload via json
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }} 
+        asset_path: ./artifacts/dynamis.json
+        asset_name: dynamis.json
+        asset_content_type: application/json

@@ -10,6 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10' 
@@ -24,4 +25,13 @@ jobs:
       - name: build firmware
         run: >
           cd ../qmk_firmware &&
-          qmk compile -kb bbrfkr/dynamis -km via
+          qmk compile -kb bbrfkr/dynamis -km via &&
+          cd -
+      - name: gather artifacts
+        run: >
+          mkdir artifacts &&
+          cp ../qmk_firmware/.build/bbrfkr_dynamis_via.hex firmware/via/dynamis.json artifacts
+      - uses: actions/upload-artifact@v3
+        with:
+          name: firmware
+          path: ./artifacts/*
