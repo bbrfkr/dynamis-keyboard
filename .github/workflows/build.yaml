@@ -1,18 +1,13 @@
-name: build-test
+name: build
 
 on:
-  push:
-    branches:
-      - '*'
-    tags-ignore:
-      - '*'
+  workflow_call:
 
 env:
   FIRMWARE_PATH: keyboards/bbrfkr/dynamis
 
 jobs:
   build:
-    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4

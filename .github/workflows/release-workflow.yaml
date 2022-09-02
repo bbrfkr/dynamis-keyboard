@@ -1,0 +1,12 @@
+name: release-workflow
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ./.github/workflows/release.yaml
