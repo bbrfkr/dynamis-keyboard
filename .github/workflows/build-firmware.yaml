@@ -21,4 +21,4 @@ jobs:
           qmk compile -kb bbrfkr/dynamis -km via &&
           cd - &&
           mkdir .artifacts &&
-          cp ../qmk_firmware/.build/bbrfkr_dynamis_via.hex firmware/qmk/via/dynamis.json .artifacts
+          cp ../qmk_firmware/.build/bbrfkr_dynamis_via.hex firmware/via/dynamis.json .artifacts
