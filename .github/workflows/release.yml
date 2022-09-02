@@ -6,7 +6,7 @@ on:
 jobs:
   release:
     steps:
-      - uses: ./.github/workflows/build.yaml
+      - uses: ./.github/workflows/build.yml
       - name: gather artifacts
         run: >
           mkdir artifacts &&
