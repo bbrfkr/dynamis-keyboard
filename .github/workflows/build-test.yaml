@@ -1,0 +1,30 @@
+name: build-test
+
+on:
+  push:
+    tags-ignore:
+      - '*'
+
+env:
+  FIRMWARE_PATH: keyboards/bbrfkr/dynamis
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
+      - name: install qmk
+        run: pip install qmk
+      - name: setup qmk
+        run: qmk setup -y -H ../qmk_firmware
+      - name: replace soruce code
+        run: >
+          rm -rf ../qmk_firmware/$FIRMWARE_PATH &&
+          cp -r firmware/qmk/dynamis ../qmk_firmware/$FIRMWARE_PATH
+      - name: build firmware
+        run: >
+          cd ../qmk_firmware &&
+          qmk compile -kb bbrfkr/dynamis -km via
