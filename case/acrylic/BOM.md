@@ -5,11 +5,10 @@
 |acryl cut for feet-bottom.svg|1|5mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/acrylic/feet-bottom.svg)|
 |acryl cut for feet-middle.svg|1|5mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/acrylic/feet-middle.svg)|
 |acryl cut for bottom.svg|1|3mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/acrylic/bottom.svg)|
-|acryl cut for gasket-middle-with-usb-hole.svg(5mm)|1|5mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/acrylic/gasket-middle-with-usb-hole.svg)|
-|acryl cut for gasket-middle-with-usb-hole.svg(3mm)|1|3mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/acrylic/gasket-middle-with-usb-hole.svg)|
-|acryl cut for middle.svg|2|2mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/acrylic/middle.svg)|
+|acryl cut for gasket-middle-with-usb-hole.svg|1|7mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/acrylic/gasket-middle-with-usb-hole.svg)|
+|acryl cut for middle.svg|1|4mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/acrylic/middle.svg)|
 |acryl cut for gasket-middle.svg|1|2mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/acrylic/gasket-middle.svg)|
-|acryl cut for top.svg|1|5mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/acrylic/top.svg)|
+|acryl cut for top.svg|1|3mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/acrylic/top.svg)|
 |ceramic ball 3mm|3|For support ball of track ball cup|
 |case foam|1|Option. The thickness is 3.5mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/case-foam.svg)|
 |dynamis pcba|1|-|
