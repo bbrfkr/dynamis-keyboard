@@ -6,7 +6,7 @@
 |3d printed top case|1|3d printed by [this stl](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/3dp/gasket-mount-case-top-case.stl)|
 |brass weight|1|Option. Cnc process etc with [this stl](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/3dp/gasket-mount-case-weight.stl)|
 |ceramic ball 3mm|3|For support ball of track ball cup|
-|case foam|1|Option. The thickness is 3.5mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/case-foam.svg)|
+|case foam|1|Option. The thickness is 4mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/case-foam.svg)|
 |dynamis pcba|1|-|
 |fr4 plate|1|-|
 |gaskets sheet|2|With adhesive on one side only. The thickness is 2mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/gasket.svg)|
@@ -17,7 +17,7 @@
 |M3 pan head screw 16mm|10|-|
 |M3 countersunk screw 6mm|4|Option for using brass weight.|
 |pcb mounted stabilizer|(qty you need)|MX compatible one is supported|
-|plate foam|1|Option. The thickness is 3.5mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/add-docs-logos/case/plate-foam.svg)|
+|plate foam|1|Option. The thickness is 4mm. Laser cut with [this svg](https://github.com/bbrfkr/dynamis-keyboard/blob/add-docs-logos/case/plate-foam.svg)|
 |rubber foot|4|-|
 |switch|(qty you need)|MX compatible one is supported|
 |trackball 34mm|1|e.g. [https://perixx.com/collections/accessories/products/18047](https://perixx.com/collections/accessories/products/18047)|

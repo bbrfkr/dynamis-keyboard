@@ -13,13 +13,13 @@
 1. Insert the "bottom" acryl cut to M2 22mm spacers.
     ![acrylic-04](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-04.jpg?raw=true)
 
-1. Insert the "gasket-middle-with-usb-hole (5mm and 3mm)" acryl cuts to M2 spacers.
+1. Insert the "gasket-middle-with-usb-hole" acryl cuts to M2 spacers.
     ![acrylic-05](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-05.jpg?raw=true)
 
 1. Affix gaskets to "gasket-middle-with-usb-hole" acryl cut.
     ![acrylic-06](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-06.jpg?raw=true)
 
-1. Insert the "middle (2mm x 2)" acryl cuts to M2 spacers.
+1. Insert the "middle" acryl cuts to M2 spacers.
     ![acrylic-07](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/acrylic-07.jpg?raw=true)
 
 1. Install stabilizers to pcba.
