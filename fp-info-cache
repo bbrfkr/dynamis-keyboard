@@ -1,4 +1,4 @@
-20573490300583031
+20572776043395742
 74LVC1T45GW
 Nexperia-SOT363-11_2018-0-IPC_A
 
@@ -79848,6 +79848,13 @@ rotary encoder
 0
 5
 4
+SK6812MINI-E
+SK6812MINIE
+SK6812MINI-E-1
+LED
+0
+4
+4
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -87009,20 +87016,6 @@ varistor SIOV
 0
 2
 2
-WS2812B
-WS2812B
-
-
-0
-4
-4
-WS2812B
-WS2812B_data-bridgeable
-
-
-0
-12
-4
 dynamis
 logo
 
