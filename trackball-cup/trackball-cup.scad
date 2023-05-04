@@ -42,78 +42,24 @@ module ball_cup(){
         // カップ穴
         translate([0,0,mirror_thin+mirror_offset+sphere_size/2]) sphere(sphere_size/2);
 
-//        // ビーズ用穴 (3mm)
-//        translate([0,0,mirror_thin+mirror_offset]) {
-//            rotate(0){
-//                translate([0, -62.1 * (sphere_size)/128, sphere_size/3]){
-//                    sphere(1.55);
-//                }
-//            }
-//            rotate(120){
-//                translate([0, -62.1 * (sphere_size)/128, sphere_size/3]){
-//                    sphere(1.55);
-//                }
-//            }
-//            rotate(240){
-//                translate([0, -62.1 * (sphere_size)/128, sphere_size/3]){
-//                    sphere(1.55);
-//                }
-//            }
-//        }
-//        // ビーズ用穴 (2mm)
-//        translate([0,0,mirror_thin+mirror_offset]) {
-//            rotate(0){
-//                translate([0, -62.5 * (sphere_size)/128, sphere_size/3]){
-//                    sphere(1.20);
-//                }
-//            }
-//            rotate(120){
-//                translate([0, -62.5 * (sphere_size)/128, sphere_size/3]){
-//                    sphere(1.20);
-//                }
-//            }
-//            rotate(240){
-//                translate([0, -62.5 * (sphere_size)/128, sphere_size/3]){
-//                    sphere(1.20);
-//                }
-//            }
-//        }       
-        // ビーズ用穴 (1.5mm)
+        // ビーズ用穴 (2mm)
         translate([0,0,mirror_thin+mirror_offset]) {
             rotate(0){
-                translate([0, -61.0 * (sphere_size)/128, sphere_size/3]){
-                    sphere(0.78);
+                translate([0, -62.25 * (sphere_size)/128, sphere_size/3]){
+                    sphere(1.05);
                 }
             }
             rotate(120){
-                translate([0, -61.0 * (sphere_size)/128, sphere_size/3]){
-                    sphere(0.78);
+                translate([0, -62.25 * (sphere_size)/128, sphere_size/3]){
+                    sphere(1.05);
                 }
             }
             rotate(240){
-                translate([0, -61.0 * (sphere_size)/128, sphere_size/3]){
-                    sphere(0.78);
+                translate([0, -62.25 * (sphere_size)/128, sphere_size/3]){
+                    sphere(1.05);
                 }
             }
-        }      
-//        // ビーズ用穴 (1mm)
-//        translate([0,0,mirror_thin+mirror_offset]) {
-//            rotate(0){
-//                translate([0, -62.3 * (sphere_size)/128, sphere_size/3]){
-//                    sphere(1.05);
-//                }
-//            }
-//            rotate(120){
-//                translate([0, -62.3 * (sphere_size)/128, sphere_size/3]){
-//                    sphere(1.05);
-//                }
-//            }
-//            rotate(240){
-//                translate([0, -62.3 * (sphere_size)/128, sphere_size/3]){
-//                    sphere(1.05);
-//                }
-//            }
-//        }        
+        }            
  
         // インサートナット用穴
             translate([16, -16, -0.1]){
