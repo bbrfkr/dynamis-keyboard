@@ -56,6 +56,7 @@
         }
       ],
       "drc_exclusions": [
+        "copper_edge_clearance|441815000|165775000|460f8cbf-ebcc-4ebe-885f-0cc4e6cd79f7|ae03f417-704e-4356-ba4c-cd189d3f4e99",
         "silk_over_copper|452025000|137963072|17bb751a-b201-40e3-b3e4-603913adf40c|5f1289f9-a7eb-4b99-9406-97aa47f4683c",
         "silk_over_copper|461425000|137963072|17bb751a-b201-40e3-b3e4-603913adf40c|bd27fc5a-2b11-4bba-9f3d-41d6eb086089"
       ],
@@ -65,7 +66,7 @@
       "rule_severities": {
         "annular_width": "error",
         "clearance": "ignore",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "warning",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",

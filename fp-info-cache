@@ -1,4 +1,4 @@
-20572776043395742
+20577843627642446
 74LVC1T45GW
 Nexperia-SOT363-11_2018-0-IPC_A
 
@@ -41,6 +41,13 @@ audio belton reverb
 0
 7
 7
+BZT52C3V3S
+SOD-323_L1.6-W1.3-LS2.6-RD-1
+
+
+0
+2
+2
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -81381,6 +81388,13 @@ Texas_Instruments-TLV70019DDCR-Level_C
 0
 5
 5
+TPD4E05U06DQAR
+USON-10_L2.5-W1.0-P0.50-BL
+
+
+0
+10
+10
 TS-1187A-B-A-B
 SW_TS-1187A-B-A-B
 
@@ -87016,6 +87030,13 @@ varistor SIOV
 0
 2
 2
+X322516MLB4SI
+OSC-SMD_4P-L3.2-W2.5-BL
+
+
+0
+4
+4
 dynamis
 logo
 
