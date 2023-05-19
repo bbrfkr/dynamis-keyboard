@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\tatsunori\workspaces\for-keyboards\dynamis\dynamis.kicad_sch</source>
-    <date>2023/05/15 17:07:49</date>
+    <date>2023/05/18 2:26:24</date>
     <tool>Eeschema (6.0.5)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -3238,7 +3238,7 @@
     </net>
     <net code="6" name="LED">
       <node ref="LED00" pin="4" pinfunction="DIN" pintype="passive"/>
-      <node ref="U0" pin="21" pinfunction="PD3" pintype="bidirectional"/>
+      <node ref="U0" pin="1" pinfunction="PE6" pintype="bidirectional"/>
     </net>
     <net code="7" name="MISO">
       <node ref="R8" pin="1" pintype="passive"/>
@@ -3251,7 +3251,7 @@
       <node ref="ZD_0" pin="1" pinfunction="K" pintype="passive"/>
     </net>
     <net code="9" name="MOTION">
-      <node ref="U0" pin="20" pinfunction="PD2" pintype="bidirectional"/>
+      <node ref="U0" pin="12" pinfunction="PB7" pintype="bidirectional"/>
       <node ref="U1" pin="9" pinfunction="MOTION" pintype="passive"/>
     </net>
     <net code="10" name="NCS">
@@ -3628,11 +3628,11 @@
     </net>
     <net code="99" name="RE_A">
       <node ref="RE0" pin="A" pinfunction="A" pintype="passive"/>
-      <node ref="U0" pin="12" pinfunction="PB7" pintype="bidirectional"/>
+      <node ref="U0" pin="41" pinfunction="PF0" pintype="bidirectional"/>
     </net>
     <net code="100" name="RE_B">
       <node ref="RE0" pin="B" pinfunction="B" pintype="passive"/>
-      <node ref="U0" pin="1" pinfunction="PE6" pintype="bidirectional"/>
+      <node ref="U0" pin="40" pinfunction="PF1" pintype="bidirectional"/>
     </net>
     <net code="101" name="SCLK">
       <node ref="U0" pin="9" pinfunction="PB1" pintype="bidirectional"/>
@@ -3682,7 +3682,7 @@
       <node ref="SWCL_S00" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SWET_AN00" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SWET_IS00" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U0" pin="41" pinfunction="PF0" pintype="bidirectional"/>
+      <node ref="U0" pin="18" pinfunction="PD0" pintype="bidirectional"/>
     </net>
     <net code="106" name="col01">
       <node ref="SW00_01" pin="1" pinfunction="1" pintype="passive"/>
@@ -3697,7 +3697,7 @@
       <node ref="SWLS_S01" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SWRS_L01" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SWRS_S01" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U0" pin="40" pinfunction="PF1" pintype="bidirectional"/>
+      <node ref="U0" pin="19" pinfunction="PD1" pintype="bidirectional"/>
     </net>
     <net code="107" name="col02">
       <node ref="SW00_02" pin="1" pinfunction="1" pintype="passive"/>
@@ -3710,7 +3710,7 @@
       <node ref="SW07_02" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW08_02" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW09_02" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U0" pin="39" pinfunction="PF4" pintype="bidirectional"/>
+      <node ref="U0" pin="37" pinfunction="PF6" pintype="bidirectional"/>
     </net>
     <net code="108" name="col03">
       <node ref="SW00_03" pin="1" pinfunction="1" pintype="passive"/>
@@ -3723,7 +3723,7 @@
       <node ref="SW07_03" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW08_03" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW09_03" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U0" pin="38" pinfunction="PF5" pintype="bidirectional"/>
+      <node ref="U0" pin="36" pinfunction="PF7" pintype="bidirectional"/>
     </net>
     <net code="109" name="col04">
       <node ref="SW00_04" pin="1" pinfunction="1" pintype="passive"/>
@@ -3737,7 +3737,7 @@
       <node ref="SW09_04" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SWSP_L04" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SWSP_S04" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U0" pin="37" pinfunction="PF6" pintype="bidirectional"/>
+      <node ref="U0" pin="22" pinfunction="PD5" pintype="bidirectional"/>
     </net>
     <net code="110" name="col05">
       <node ref="SW00_05" pin="1" pinfunction="1" pintype="passive"/>
@@ -3750,7 +3750,7 @@
       <node ref="SW07_05" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW08_05" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW09_05" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U0" pin="36" pinfunction="PF7" pintype="bidirectional"/>
+      <node ref="U0" pin="39" pinfunction="PF4" pintype="bidirectional"/>
     </net>
     <net code="111" name="col06">
       <node ref="SW00_06" pin="1" pinfunction="1" pintype="passive"/>
@@ -3763,7 +3763,7 @@
       <node ref="SW07_06" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW08_06" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW09_06" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U0" pin="32" pinfunction="PC7" pintype="bidirectional"/>
+      <node ref="U0" pin="38" pinfunction="PF5" pintype="bidirectional"/>
     </net>
     <net code="112" name="row00">
       <node ref="D00_00" pin="1" pinfunction="K" pintype="passive"/>
@@ -3773,7 +3773,7 @@
       <node ref="D00_04" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D00_05" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D00_06" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U0" pin="30" pinfunction="PB6" pintype="bidirectional"/>
+      <node ref="U0" pin="25" pinfunction="PD4" pintype="bidirectional"/>
     </net>
     <net code="113" name="row01">
       <node ref="D01_00" pin="1" pinfunction="K" pintype="passive"/>
@@ -3783,7 +3783,7 @@
       <node ref="D01_04" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D01_05" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D01_06" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U0" pin="28" pinfunction="PB4" pintype="bidirectional"/>
+      <node ref="U0" pin="26" pinfunction="PD6" pintype="bidirectional"/>
     </net>
     <net code="114" name="row02">
       <node ref="D02_00" pin="1" pinfunction="K" pintype="passive"/>
@@ -3793,7 +3793,7 @@
       <node ref="D02_04" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D02_05" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D02_06" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U0" pin="26" pinfunction="PD6" pintype="bidirectional"/>
+      <node ref="U0" pin="27" pinfunction="PD7" pintype="bidirectional"/>
     </net>
     <net code="115" name="row03">
       <node ref="D03_00" pin="1" pinfunction="K" pintype="passive"/>
@@ -3803,7 +3803,7 @@
       <node ref="D03_04" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D03_05" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D03_06" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U0" pin="22" pinfunction="PD5" pintype="bidirectional"/>
+      <node ref="U0" pin="21" pinfunction="PD3" pintype="bidirectional"/>
     </net>
     <net code="116" name="row04">
       <node ref="D04_00" pin="1" pinfunction="K" pintype="passive"/>
@@ -3813,7 +3813,7 @@
       <node ref="D04_04" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D04_05" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D04_06" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U0" pin="19" pinfunction="PD1" pintype="bidirectional"/>
+      <node ref="U0" pin="20" pinfunction="PD2" pintype="bidirectional"/>
     </net>
     <net code="117" name="row05">
       <node ref="D05_00" pin="1" pinfunction="K" pintype="passive"/>
@@ -3833,7 +3833,7 @@
       <node ref="D06_04" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D06_05" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D06_06" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U0" pin="29" pinfunction="PB5" pintype="bidirectional"/>
+      <node ref="U0" pin="30" pinfunction="PB6" pintype="bidirectional"/>
     </net>
     <net code="119" name="row07">
       <node ref="D07_00" pin="1" pinfunction="K" pintype="passive"/>
@@ -3843,7 +3843,7 @@
       <node ref="D07_04" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D07_05" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D07_06" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U0" pin="27" pinfunction="PD7" pintype="bidirectional"/>
+      <node ref="U0" pin="29" pinfunction="PB5" pintype="bidirectional"/>
     </net>
     <net code="120" name="row08">
       <node ref="D08_00" pin="1" pinfunction="K" pintype="passive"/>
@@ -3853,7 +3853,7 @@
       <node ref="D08_04" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D08_05" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D08_06" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U0" pin="25" pinfunction="PD4" pintype="bidirectional"/>
+      <node ref="U0" pin="28" pinfunction="PB4" pintype="bidirectional"/>
     </net>
     <net code="121" name="row09">
       <node ref="D09_00" pin="1" pinfunction="K" pintype="passive"/>
@@ -3863,7 +3863,7 @@
       <node ref="D09_04" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D09_05" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D09_06" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U0" pin="18" pinfunction="PD0" pintype="bidirectional"/>
+      <node ref="U0" pin="32" pinfunction="PC7" pintype="bidirectional"/>
     </net>
     <net code="122" name="unconnected-(J0-PadA8)">
       <node ref="J0" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
