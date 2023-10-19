@@ -1,4 +1,4 @@
-# build guide for trackball cup
+# build guide for pcba
 1. Install 4 heat inserts as the following picture.
     ![trackball-cup-01](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/trackball-cup-01.jpg?raw=true)
 
