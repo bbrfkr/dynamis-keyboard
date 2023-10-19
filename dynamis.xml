@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\tatsunori\workspaces\for-keyboards\dynamis\dynamis.kicad_sch</source>
-    <date>2023/05/18 2:26:24</date>
+    <date>2023/05/27 4:48:12</date>
     <tool>Eeschema (6.0.5)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1517,19 +1517,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f2f3953d-2b4a-418f-a2dc-f56255d4200d</tstamps>
     </comp>
-    <comp ref="R8">
-      <value>10k</value>
-      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
-      <fields>
-        <field name="LCSC">C17928</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C17928"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="dynamis.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>0e9f57ce-8bd9-4af2-9b12-de503e89907e</tstamps>
-    </comp>
     <comp ref="R9">
       <value>37.4k</value>
       <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
@@ -2706,45 +2693,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>38831ed9-e3c0-4097-9505-4da2cf2b7acd</tstamps>
     </comp>
-    <comp ref="ZD_0">
-      <value>D_Zener</value>
-      <footprint>BZT52C3V3S:SOD-323_L1.6-W1.3-LS2.6-RD-1</footprint>
-      <fields>
-        <field name="LCSC">C908186</field>
-      </fields>
-      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
-      <property name="LCSC" value="C908186"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="dynamis.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>87d0ce5b-8ef0-406e-b954-37c7ab1071ef</tstamps>
-    </comp>
-    <comp ref="ZD_1">
-      <value>D_Zener</value>
-      <footprint>BZT52C3V3S:SOD-323_L1.6-W1.3-LS2.6-RD-1</footprint>
-      <fields>
-        <field name="LCSC">C908186</field>
-      </fields>
-      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
-      <property name="LCSC" value="C908186"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="dynamis.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>aad457ad-44cd-41ee-b003-319079c1cde3</tstamps>
-    </comp>
-    <comp ref="ZD_2">
-      <value>D_Zener</value>
-      <footprint>BZT52C3V3S:SOD-323_L1.6-W1.3-LS2.6-RD-1</footprint>
-      <fields>
-        <field name="LCSC">C908186</field>
-      </fields>
-      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
-      <property name="LCSC" value="C908186"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="dynamis.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>5755991a-eee5-4df0-ab30-4ac3365f488a</tstamps>
-    </comp>
   </components>
   <libparts>
     <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
@@ -2824,25 +2772,6 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">D</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="K" type="passive"/>
-        <pin num="2" name="A" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="D_Zener">
-      <description>Zener diode</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>TO-???*</fp>
-        <fp>*_Diode_*</fp>
-        <fp>*SingleDiode*</fp>
-        <fp>D_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">D</field>
-        <field name="Value">D_Zener</field>
         <field name="Datasheet">~</field>
       </fields>
       <pins>
@@ -3227,9 +3156,6 @@
       <node ref="U4" pin="8" pinfunction="GND" pintype="passive"/>
       <node ref="Y0" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Y0" pin="4" pinfunction="4" pintype="passive"/>
-      <node ref="ZD_0" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="ZD_1" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="ZD_2" pin="2" pinfunction="A" pintype="passive"/>
     </net>
     <net code="5" name="GNDPWR">
       <node ref="C21" pin="2" pintype="passive"/>
@@ -3241,14 +3167,12 @@
       <node ref="U0" pin="1" pinfunction="PE6" pintype="bidirectional"/>
     </net>
     <net code="7" name="MISO">
-      <node ref="R8" pin="1" pintype="passive"/>
       <node ref="U0" pin="11" pinfunction="PB3" pintype="bidirectional"/>
       <node ref="U1" pin="12" pinfunction="MISO" pintype="passive"/>
     </net>
     <net code="8" name="MOSI">
       <node ref="U0" pin="10" pinfunction="PB2" pintype="bidirectional"/>
       <node ref="U1" pin="11" pinfunction="MOSI" pintype="passive"/>
-      <node ref="ZD_0" pin="1" pinfunction="K" pintype="passive"/>
     </net>
     <net code="9" name="MOTION">
       <node ref="U0" pin="12" pinfunction="PB7" pintype="bidirectional"/>
@@ -3257,7 +3181,6 @@
     <net code="10" name="NCS">
       <node ref="U0" pin="8" pinfunction="PB0" pintype="bidirectional"/>
       <node ref="U1" pin="13" pinfunction="NCS" pintype="passive"/>
-      <node ref="ZD_2" pin="1" pinfunction="K" pintype="passive"/>
     </net>
     <net code="11" name="Net-(C0-Pad2)">
       <node ref="C0" pin="2" pintype="passive"/>
@@ -3637,7 +3560,6 @@
     <net code="101" name="SCLK">
       <node ref="U0" pin="9" pinfunction="PB1" pintype="bidirectional"/>
       <node ref="U1" pin="10" pinfunction="SCLK" pintype="passive"/>
-      <node ref="ZD_1" pin="1" pinfunction="K" pintype="passive"/>
     </net>
     <net code="102" name="VCC">
       <node ref="ESDD0" pin="1" pinfunction="A1" pintype="passive"/>
@@ -3654,7 +3576,6 @@
       <node ref="C20" pin="1" pintype="passive"/>
       <node ref="R11" pin="1" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
-      <node ref="R8" pin="2" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="VDDIO" pintype="passive"/>
       <node ref="U3" pin="5" pinfunction="OUT" pintype="power_out"/>
     </net>
