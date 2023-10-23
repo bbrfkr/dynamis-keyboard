@@ -24,7 +24,7 @@
     ![pcba14](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/pcba14.jpg?raw=true)
 1. センサミラーをトラックボールセンサの上に乗せます。
     ![pcba15](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/pcba15.jpg?raw=true)
-1. センサミラーを覆うようにトラックボールセンサを取り付け、PCB裏側からM2ねじでねじ止めします。
+1. センサミラーを覆うようにトラックボールカップを取り付け、PCB裏側からM2ねじでねじ止めします。
     ![pcba16](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/pcba16.jpg?raw=true)
     ![pcba17](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/pcba17.jpg?raw=true)
 1. 写真と見比べて、作業内容を確認してください。
