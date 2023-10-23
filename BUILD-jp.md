@@ -1,7 +1,7 @@
 # ビルドガイド for PCBA(PCB-Assembly)
 1. 部品を用意します。
     ![pcba01](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/pcba01.jpg?raw=true)
-1. LEDをはんだ付けします。 LEDの切り取られた足がPCB上の白い点に近いパッドに乗るようにしてください。
+1. LEDをはんだ付けします。 LEDの欠けた足がPCB上の白い点に近いパッドに乗るようにしてください。
     ![pcba02](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/pcba02.jpg?raw=true)
     ![pcba03](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/pcba03.jpg?raw=true)
 1. 少量のはんだをスイッチソケットのパッドすべてに乗せます。
