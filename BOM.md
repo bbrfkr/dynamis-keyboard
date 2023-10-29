@@ -6,7 +6,7 @@
 |switch socket|76|MX compatible one is supported|
 |LED|5|SK6812MINI-E is supported|
 |trackball cup base|1|FDM 3d printed by [this stl](https://github.com/bbrfkr/dynamis-keyboard/blob/main/trackball-cup/trackball-cup.stl)|
-|ceramic ball 2mm|3|For support ball of track ball cup|
+|ceramic ball 2mm|3|For supporting trackball|
 |M2 heat insert|4|The length is 3mm|
 |M2 pan head screw|4|The length is 4mm|
 |rotary encoder|1|e.g. [EC12E24404A6](https://www.mouser.jp/datasheet/2/15/EC12E-1370769.pdf)|

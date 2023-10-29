@@ -25,7 +25,7 @@ jobs:
       - name: build firmware
         run: >
           cd ../qmk_firmware &&
-          qmk compile -kb bbrfkr/dynamis -km via &&
+          qmk compile -kb bbrfkr/dynamis/v2 -km via &&
           cd -
       - name: gather artifacts
         run: >

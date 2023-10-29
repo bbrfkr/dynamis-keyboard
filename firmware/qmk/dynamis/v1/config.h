@@ -14,16 +14,20 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "dynamis.h"
+#pragma once
 
-#ifdef ENCODER_ENABLE
-bool encoder_update_kb(uint8_t index, bool clockwise) {
-    if (!encoder_update_user(index, clockwise)) { return false; }
-    if (clockwise) {
-        tap_code(layer_state == 0 ? KC_WH_D : KC_VOLD);
-    } else {
-        tap_code(layer_state == 0 ? KC_WH_U : KC_VOLU);
-    }
-    return true;
-}
-#endif
+/* rgb num */
+#define RGBLED_NUM 10
+#define RGBLIGHT_EFFECT_BREATHING
+#define RGBLIGHT_EFFECT_RAINBOW_MOOD
+#define RGBLIGHT_EFFECT_RAINBOW_SWIRL
+#define RGBLIGHT_EFFECT_SNAKE
+#define RGBLIGHT_EFFECT_KNIGHT
+#define RGBLIGHT_EFFECT_CHRISTMAS
+#define RGBLIGHT_EFFECT_STATIC_GRADIENT
+#define RGBLIGHT_EFFECT_RGB_TEST
+#define RGBLIGHT_EFFECT_ALTERNATING
+#define RGBLIGHT_EFFECT_TWINKLE
+
+#define PMW33XX_CS_PIN SPI_SS_PIN
+#define POINTING_DEVICE_INVERT_Y
