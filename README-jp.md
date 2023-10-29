@@ -51,8 +51,8 @@
 |はんだ|-|-|
 
 ## ビルド方法
-1. [こちら](https://github.com/bbrfkr/dynamis-keyboard/blob/main/BUILD-jp.md))にしたがってPCBAを完成させてください。
-1. [こちら](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/sandwitch/BUILD-jp.md))にしたがってサンドイッチケースにPCBAを組み込んでください。
+1. [こちら](https://github.com/bbrfkr/dynamis-keyboard/blob/main/BUILD-jp.md)にしたがってPCBAを完成させてください。
+1. [こちら](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/sandwitch/BUILD-jp.md)にしたがってサンドイッチケースにPCBAを組み込んでください。
 
 ## キーマップの書き換えとファームウェアについて
 [こちら](https://github.com/bbrfkr/dynamis-keyboard/blob/main/README-jp-firmware.md)から、キーマップの書き換えやファームウェアの書き込みを実施してください。
