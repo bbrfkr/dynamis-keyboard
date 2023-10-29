@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SK6812MINI-E
+D 3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)
+K
+F http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf
+$ENDCMP
+#
+#End Doc Library
