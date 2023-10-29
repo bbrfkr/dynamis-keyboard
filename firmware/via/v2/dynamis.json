@@ -1,7 +1,7 @@
 {
   "name": "dynamis",
   "vendorId": "0x6262",
-  "productId": "0x0001",
+  "productId": "0x0002",
   "keycodes": ["qmk_lighting"],
   "menus": ["qmk_rgblight"],
   "matrix": {"rows": 10, "cols": 7},
