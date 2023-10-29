@@ -30,7 +30,7 @@ jobs:
       - name: gather artifacts
         run: >
           mkdir artifacts &&
-          cp ../qmk_firmware/.build/bbrfkr_dynamis_via.hex firmware/via/dynamis.json artifacts
+          cp ../qmk_firmware/.build/bbrfkr_dynamis_v2_via.hex firmware/via/dynamis.json artifacts
       - uses: actions/upload-artifact@v3
         with:
           name: firmware
