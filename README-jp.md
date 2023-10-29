@@ -60,7 +60,7 @@
 ## ケースのアップグレードについて
 「dynamis」は同一PCBA・FR4プレートで、以下のケースをサポートしています。
 
-- [サンドイッチマウントケース](https://github.com/bbrfkr/dynamis-keyboard/tree/main/case/sandwitch)
-- [3Dプリントトップマウントケース](https://github.com/bbrfkr/dynamis-keyboard/tree/main/case/3dp)
+- [サンドイッチマウントケース](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/sandwitch/README-jp.md)
+- [3Dプリントトップマウントケース](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/3dp/README-jp.md)
 
 各リンクからご自身でパーツ調達・組み立てを行っていただくこともできますし、パーツ調達が難しい方に対し後日、受注生産という形で各パーツの販売を検討しております。ご期待ください。

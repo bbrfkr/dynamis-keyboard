@@ -1,4 +1,4 @@
-# 3d printed gasket mount case
+# 3d printed top mount case
 - [parts list](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/3dp/BOM.md)
 - [build guide](https://github.com/bbrfkr/dynamis-keyboard/blob/main/case/3dp/BUILD.md)
 
