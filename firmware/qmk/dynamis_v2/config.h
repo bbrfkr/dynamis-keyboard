@@ -1,4 +1,4 @@
-/* Copyright 2022 bbrfkr
+/* Copyright 2023 bbrfkr
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -17,7 +17,7 @@
 #pragma once
 
 /* rgb num */
-#define RGBLED_NUM 10
+#define RGBLED_NUM 5
 #define RGBLIGHT_EFFECT_BREATHING
 #define RGBLIGHT_EFFECT_RAINBOW_MOOD
 #define RGBLIGHT_EFFECT_RAINBOW_SWIRL
@@ -29,5 +29,7 @@
 #define RGBLIGHT_EFFECT_ALTERNATING
 #define RGBLIGHT_EFFECT_TWINKLE
 
+/* PMW3360 */
 #define PMW33XX_CS_PIN SPI_SS_PIN
 #define POINTING_DEVICE_INVERT_Y
+#define PMW3360_INITIAL_CPI 2400

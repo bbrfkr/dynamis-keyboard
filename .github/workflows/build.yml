@@ -4,7 +4,7 @@ on:
   workflow_call:
 
 env:
-  FIRMWARE_PATH: keyboards/bbrfkr/dynamis
+  FIRMWARE_PATH: keyboards/bbrfkr/dynamis_v2
 
 jobs:
   build:
@@ -21,16 +21,16 @@ jobs:
       - name: replace soruce code
         run: >
           rm -rf ../qmk_firmware/$FIRMWARE_PATH &&
-          cp -r firmware/qmk/dynamis ../qmk_firmware/$FIRMWARE_PATH
+          cp -r firmware/qmk/dynamis_v2 ../qmk_firmware/$FIRMWARE_PATH
       - name: build firmware
         run: >
           cd ../qmk_firmware &&
-          qmk compile -kb bbrfkr/dynamis/v2 -km via &&
+          qmk compile -kb bbrfkr/dynamis_v2 -km via &&
           cd -
       - name: gather artifacts
         run: >
           mkdir artifacts &&
-          cp ../qmk_firmware/.build/bbrfkr_dynamis_v2_via.hex firmware/via/v2/dynamis.json artifacts
+          cp ../qmk_firmware/.build/bbrfkr_dynamis_v2_via.hex firmware/via/dynamis_v2.json artifacts
       - uses: actions/upload-artifact@v3
         with:
           name: firmware
