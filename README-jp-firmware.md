@@ -55,3 +55,5 @@ qmk toolboxを起動すると、次のような画面が表示されます。
 ![via_06](https://github.com/bbrfkr/dynamis-keyboard/blob/images/images/via-06.png?raw=true)
 
 `Rotate Clockwise` が時計回りの挙動、 `Rotate Counterclockwise` が反時計回りの挙動に対応します。エントリの修正時にはqmkの任意のキーコードを入力できます。qmkのキーコードは[こちら](https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md)から検索できます。
+
+ただし、dynamis v2においてはqmkのキーコード `KC_F18` と `KC_F19` に対してそれぞれトラックボールの `DPI増加` および `DPI減少` にハードコーディングされています。

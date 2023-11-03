@@ -34,6 +34,6 @@
 You can download the firmware for this keyboard from [here](https://github.com/bbrfkr/dynamis-keyboard/releases).
 
 ## remap keymap
-"dynamis" supports [via](https://www.caniusevia.com/). Therefore, it is recommended that you remap keymap through via. You can download the via definition from [here](https://github.com/bbrfkr/dynamis-keyboard/releases).
+"dynamis" supports [via](https://www.caniusevia.com/). Therefore, it is recommended that you remap keymap through via. You can download the via definition from [here](https://github.com/bbrfkr/dynamis-keyboard/releases). However, w.r.t. dynamis v2, `KC_F18` and `KC_F19` is hard-coded with `increase DPI` and `decrease DPI` features.
 
 Moreover, "dynamis" is registered in [remap](https://remap-keys.app/catalog/stOy3bAlBUlsGzHCaDIQ). From this, you can remap keymap through web browser.
