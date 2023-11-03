@@ -40,6 +40,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }} 
-          asset_path: ./artifacts/dynamis.json
+          asset_path: ./artifacts/dynamis_v2.json
           asset_name: dynamis.json
           asset_content_type: application/json

@@ -1,5 +1,5 @@
 {
-  "name": "dynamis",
+  "name": "dynamis_v2",
   "vendorId": "0x6262",
   "productId": "0x0002",
   "keycodes": ["qmk_lighting"],
